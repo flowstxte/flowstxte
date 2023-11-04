@@ -2,6 +2,8 @@
 <h1 align="center">𝕙𝕖𝕪 ㊋ 𝕥𝕙𝕚𝕤 𝕚𝕤 𝕗𝕝𝕠𝕨𝕤𝕥𝕩𝕥𝕖 の</h1>
 <h3 align="center">I am currently studying computer science and engineering</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=flowstxte&label=Views&color=1aa7ff&style=flat-square" alt="flowstxte" /> </p>
+
 - 🌱 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
