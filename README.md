@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*mB6YLIGqIk1hTzU6Fb12zQ.gif))]
+![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*mB6YLIGqIk1hTzU6Fb12zQ.gif)
 <h1 align="center">𝕙𝕖𝕪 ㊋ 𝕥𝕙𝕚𝕤 𝕚𝕤 𝕗𝕝𝕠𝕨𝕤𝕥𝕩𝕥𝕖 の</h1>
 <h3 align="center">I am currently studying computer science and engineering</h3>
 <h3 align="left">Connect with me:</h3>
