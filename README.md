@@ -1,7 +1,7 @@
 
 <h1 align="center">𝕙𝕖𝕪 ㊋ 𝕥𝕙𝕚𝕤 𝕚𝕤 𝕗𝕝𝕠𝕨𝕤𝕥𝕩𝕥𝕖 の</h1>
 <h3 align="center">I am currently studying computer science and engineering</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Ry6p.gif">
+<img align="right" alt="Coding" width="400" src="[https://i.gifer.com/Ry6p.gif](https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif)">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ullas-sarker-tirtha-680a97276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ullas-sarker-tirtha-680a97276" height="30" width="40" /></a>
