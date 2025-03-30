@@ -8,7 +8,7 @@
 
 </div>
 
-<div align="center" style="background-color: #0D1117; padding: 10px; border-radius: 10px;">
+<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F6FF&width=435&lines=Building+the+digital+future;Exploring+new+technologies;Error+404%3A+Sleep+not+found)](https://git.io/typing-svg)
 
@@ -16,17 +16,17 @@
 
 <!-- ABOUT ME SECTION -->
 <div align="center">
-<table style="background-color: #0D1117; border: 1px solid #30363d; border-radius: 6px;">
+<table>
   <tr>
-    <td style="background-color: #161B22; color: #c9d1d9;">
-      <h2 style="color: #00f6ff;">// SYSTEM INFO</h2>
+    <td>
+      <h2>// SYSTEM INFO</h2>
       <ul>
-        <li>🔮 <b style="color: #00f6ff;">Currently mastering:</b> Python, JavaScript</li>
-        <li>🌐 <b style="color: #00f6ff;">System status:</b> Online and learning</li>
-        <li>📡 <b style="color: #00f6ff;">Next objective:</b> Full-stack development</li>
+        <li>🔮 <b>Currently mastering:</b> Python, JavaScript</li>
+        <li>🌐 <b>System status:</b> Online and learning</li>
+        <li>📡 <b>Next objective:</b> Full-stack development</li>
       </ul>
     </td>
-    <td style="background-color: #161B22;">
+    <td>
       <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="250px" alt="cyberpunk animation">
     </td>
   </tr>
@@ -34,49 +34,36 @@
 </div>
 
 <!-- TECH STACK -->
-<h2 align="center" style="color: #00f6ff;">＜/＞ TECH STACK</h2>
+<h2 align="center">＜/＞ TECH STACK</h2>
 
 <div align="center">
-  <table style="background-color: #0D1117; border: 1px solid #30363d; border-radius: 6px;">
+  <table>
     <tr>
-      <td align="center" style="background-color: #161B22; border: 2px solid #00f6ff; border-radius: 10px; padding: 15px;">
-        <div style="display: inline-block; background-color: #3572A5; padding: 10px; margin: 5px; border-radius: 50%;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
-        </div>
-        <div style="display: inline-block; background-color: #F7DF1E; padding: 10px; margin: 5px; border-radius: 50%;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
-        </div>
-        <div style="display: inline-block; background-color: #E34F26; padding: 10px; margin: 5px; border-radius: 50%;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
-        </div>
-        <div style="display: inline-block; background-color: #1572B6; padding: 10px; margin: 5px; border-radius: 50%;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
-        </div>
+      <td align="center" bgcolor="#ff00ff" style="border: 2px solid #00f6ff; border-radius: 10px; padding: 15px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
       </td>
     </tr>
   </table>
 </div>
 
 <!-- TOOLS -->
-<h2 align="center" style="color: #00f6ff;">⚙️ TOOLS</h2>
+<h2 align="center">⚙️ TOOLS</h2>
 
 <div align="center">
-  <table style="background-color: #0D1117; border: 1px solid #30363d; border-radius: 6px;">
+  <table>
     <tr>
-      <td align="center" style="background-color: #161B22; border: 2px solid #00f6ff; border-radius: 10px; padding: 15px;">
-        <div style="display: inline-block; background-color: #007ACC; padding: 10px; margin: 5px; border-radius: 50%;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/>
-        </div>
-        <div style="display: inline-block; background-color: #F1502F; padding: 10px; margin: 5px; border-radius: 50%;">
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
-        </div>
-        <div style="display: inline-block; background-color: #333333; padding: 10px; margin: 5px; border-radius: 50%;">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="60" height="60"/>
-        </div>
+      <td align="center" bgcolor="#ff9900" style="border: 2px solid #00f6ff; border-radius: 10px; padding: 15px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="60" height="60"/>
       </td>
     </tr>
   </table>
 </div>
+
 
 <!-- GITHUB STATS -->
 <h2 align="center" style="color: #00f6ff;">📊 SYSTEM DIAGNOSTICS</h2>
