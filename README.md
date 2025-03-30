@@ -20,13 +20,10 @@
     <td>
       <h2>// SYSTEM INFO</h2>
       <ul>
-        <li>🔮 <b>Currently Mastering:</b> Python, JavaScript</li>
-        <li>🌐 <b>System Status:</b> Online and Learning</li>
-        <li>📡 <b>Next Objective:</b> Full-Stack Development</li>
+        <li><b>Currently Mastering:</b> Python, JavaScript</li>
+        <li><b>System Status:</b> Online and Learning</li>
+        <li><b>Next Objective:</b> Full-Stack Development</li>
       </ul>
-    </td>
-    <td>
-      <img src="https://i.ibb.co.com/JRGNKtQV/9480898.jpg" width="250px" alt="cyberpunk animation">
     </td>
   </tr>
 </table>
@@ -49,14 +46,14 @@
 </div>
 
 <!-- TOOLS -->
-<h2 align="center">⚙️ TOOLS</h2>
+<h2 align="center">// TOOLS</h2>
 
 <div align="center" style="background; padding: 25px; border-radius: 15px; box-shadow: 0 0 15px rgba(0, 255, 242, 0.2);">
   <table>
     <tr>
       <td align="center" style="border: 2px solid #00F6FF; border-radius: 15px; padding: 20px; background;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="70" height="70" style="background: linear-gradient(45deg, #007ACC, #1F9CF0); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="70" height="70" style="background: linear-gradient(45deg, #F1502F, #9B2915); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="70" height="70" style="background: linear-gradient(45deg, #0b2a4e, #1a4b6e); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="70" height="70" style="background: linear-gradient(45deg, #4e0b2a, #6e2b1a); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
       </td>
     </tr>
   </table>
@@ -64,7 +61,7 @@
 
 
 <!-- GITHUB STATS -->
-<h2 align="center">📊 SYSTEM DIAGNOSTICS</h2>
+<h2 align="center">// SYSTEM DIAGNOSTICS</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=flowstxte&show_icons=true&theme=cyberpunk&border_color=00fbff&bg_color=0D1117&title_color=00fbff&icon_color=00fbff&text_color=00f6ff" alt="GitHub Stats">
@@ -75,7 +72,7 @@
 </div>
 
 <!-- SKILL BARS -->
-<h2 align="center">⚡ SKILLS</h2>
+<h2 align="center">// SKILLS</h2>
 
 <div align="center">
   <table>
@@ -123,7 +120,7 @@
 </div>
 
 <!-- CONNECT WITH ME -->
-<h2 align="center">📡 LINKS</h2>
+<h2 align="center">// LINKS</h2>
 
 <div align="center">
   
