@@ -14,11 +14,11 @@
 </div>
 
 <!-- ABOUT ME SECTION -->
+<h2 align="center">// SYSTEM INFO</h2>
 <div align="center">
 <table>
   <tr>
     <td>
-      <h2>// SYSTEM INFO</h2>
       <ul>
         <li><b>Currently Mastering:</b> Python, JavaScript</li>
         <li><b>System Status:</b> Online and Learning</li>
