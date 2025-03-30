@@ -70,10 +70,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=flowstxte&show_icons=true&theme=cyberpunk&border_color=00fbff&bg_color=0D1117&title_color=00fbff&icon_color=00fbff&text_color=00f6ff" alt="GitHub Stats">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flowstxte&theme=black-ice&background=0D1117&stroke=00f6ff&ring=00fbff&fire=00fbff&currStreakNum=00f6ff&sideNums=00f6ff&currStreakLabel=00fbff&sideLabels=00fbff&dates=979797" alt="GitHub Streak Stats">
-</div>
-
 <!-- SKILL BARS -->
 <h2 align="center">⚡ SKILLS</h2>
 
