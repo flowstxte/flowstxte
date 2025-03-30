@@ -36,7 +36,16 @@
 <!-- TECH STACK -->
 <h2 align="center">＜/＞ TECH STACK</h2>
 
-<div align="center">
+<div align="center" style="background: linear-gradient(90deg, #0d253f, #0f0c29, #24243e); background-size: 400% 400%; animation: gradient 15s ease infinite; padding: 20px; border-radius: 10px; margin: 20px 0;">
+
+<style>
+@keyframes gradient {
+  0% {background-position: 0% 50%;}
+  50% {background-position: 100% 50%;}
+  100% {background-position: 0% 50%;}
+}
+</style>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
@@ -46,7 +55,7 @@
 <!-- TOOLS -->
 <h2 align="center">⚙️ TOOLS</h2>
 
-<div align="center">
+<div align="center" style="background: linear-gradient(90deg, #24243e, #302b63, #0f0c29); background-size: 400% 400%; animation: gradient 15s ease infinite; padding: 20px; border-radius: 10px; margin: 20px 0;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="60" height="60"/>
