@@ -39,7 +39,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" bgcolor="#0d1117" style="border: 2px solid #00f6ff; border-radius: 10px; padding: 15px;">
+      <td align="center" bgcolor="#0F0C29" style="border: 2px solid #00f6ff; border-radius: 10px; padding: 15px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
@@ -55,7 +55,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" bgcolor="#0d1117" style="border: 2px solid #00f6ff; border-radius: 10px; padding: 15px;">
+      <td align="center" bgcolor="#240046" style="border: 2px solid #00f6ff; border-radius: 10px; padding: 15px;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/>
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="60" height="60"/>
