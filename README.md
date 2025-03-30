@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*mB6YLIGqIk1hTzU6Fb12zQ.gif)
 
-<div align="center" style="background: linear-gradient(135deg, #1a0b2e 0%, #0d1b2a 100%); padding: 30px; border-radius: 15px; box-shadow: 0 0 20px rgba(0, 255, 242, 0.3); border: 1px solid #00fff6;">
+<div align="center">
   
 # 『 FLOWSTXTE 』
 ## Computer Science & Engineering Student
@@ -9,112 +9,112 @@
 
 <div align="center" style="margin: 20px 0;">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=800&color=FF00E6&background=1A0B2E00&width=450&lines=Initializing+neural+networks...;Hacking+the+digital+frontier;System+status:+Overclocked)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=800&color=00F6FF&background=1A0B2E00&width=450&lines=Building+The+Digital+Future;Exploring+New+Technologies;Error+404%3A+Sleep+Not+Found)](https://git.io/typing-svg)
 
 </div>
 
 <!-- ABOUT ME SECTION -->
-<div align="center" style="background: #0d1b2a; padding: 25px; border-radius: 15px; color: #e0e0e0; box-shadow: 0 0 15px rgba(255, 0, 230, 0.2); border: 1px solid #ff00e6;">
-  <h2 style="color: #ff00e6;">// NEON CORE</h2>
-  <table>
-    <tr>
-      <td style="padding-right: 20px;">
-        <ul style="list-style: none; padding: 0;">
-          <li>🌌 <span style="color: #00fff6;">> Current Protocols:</span> Python, JavaScript</li>
-          <li>⚡️ <span style="color: #00fff6;">> System Uptime:</span> Always Online</li>
-          <li>💾 <span style="color: #00fff6;">> Next Upgrade:</span> Neural Net Architect</li>
-        </ul>
-      </td>
-      <td>
-        <img src="https://i.imgur.com/YOUR_CYBERPUNK_GIF.gif" width="280px" alt="neon cyberpunk animation" style="border-radius: 10px; box-shadow: 0 0 10px #ff00e6;">
-      </td>
-    </tr>
-  </table>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <h2>// SYSTEM INFO</h2>
+      <ul>
+        <li>🔮 <b>Currently Mastering:</b> Python, JavaScript</li>
+        <li>🌐 <b>System Status:</b> Online and Learning</li>
+        <li>📡 <b>Next Objective:</b> Full-Stack Development</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://i.ibb.co.com/JRGNKtQV/9480898.jpg" width="250px" alt="cyberpunk animation">
+    </td>
+  </tr>
+</table>
 </div>
 
 <!-- TECH STACK -->
-<h2 align="center" style="color: #ff00e6; text-shadow: 0 0 10px #ff00e6;">＜/＞ NEURAL ARSENAL</h2>
+<h2 align="center">＜/＞ TECH STACK</h2>
 
-<div align="center" style="background: #1a0b2e; padding: 25px; border-radius: 15px; box-shadow: 0 0 15px rgba(0, 255, 242, 0.2);">
+<div align="center" style="background; padding: 25px; border-radius: 15px; box-shadow: 0 0 15px rgba(0, 255, 242, 0.2);">
   <table>
     <tr>
-      <td align="center" style="border: 2px solid #ff00e6; border-radius: 15px; padding: 20px; background: #0d1b2a;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="70" height="70" style="background: linear-gradient(45deg, #2a0b4e, #1a2b6e); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00fff6;"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70" style="background: linear-gradient(45deg, #4e0b2a, #6e1a2b); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #ff00e6;"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="70" height="70" style="background: linear-gradient(45deg, #0b4e2a, #1a6e4b); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00fff6;"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="70" height="70" style="background: linear-gradient(45deg, #2a0b4e, #4b1a6e); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #ff00e6;"/>
+      <td align="center" style="border: 2px solid #00F6FF; border-radius: 15px; padding: 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="70" height="70" style="background: linear-gradient(45deg, #306998, #FFE873); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70" style="background: linear-gradient(45deg, #F7DF1E, #FFD700); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="70" height="70" style="background: linear-gradient(45deg, #E44D26, #F16529); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="70" height="70" style="background: linear-gradient(45deg, #264de4, #2965f1); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
       </td>
     </tr>
   </table>
 </div>
 
 <!-- TOOLS -->
-<h2 align="center" style="color: #ff00e6; text-shadow: 0 0 10px #ff00e6;">⚙️ CYBER GEAR</h2>
+<h2 align="center">⚙️ TOOLS</h2>
 
-<div align="center" style="background: #1a0b2e; padding: 25px; border-radius: 15px; box-shadow: 0 0 15px rgba(0, 255, 242, 0.2);">
+<div align="center" style="background; padding: 25px; border-radius: 15px; box-shadow: 0 0 15px rgba(0, 255, 242, 0.2);">
   <table>
     <tr>
-      <td align="center" style="border: 2px solid #ff00e6; border-radius: 15px; padding: 20px; background: #0d1b2a;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="70" height="70" style="background: linear-gradient(45deg, #0b2a4e, #1a4b6e); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00fff6;"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="70" height="70" style="background: linear-gradient(45deg, #4e0b2a, #6e2b1a); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #ff00e6;"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="70" height="70" style="background: linear-gradient(45deg, #2a0b4e, #4e1a6e); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00fff6;"/>
+      <td align="center" style="border: 2px solid #00F6FF; border-radius: 15px; padding: 20px; background;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="70" height="70" style="background: linear-gradient(45deg, #0b2a4e, #1a4b6e); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="70" height="70" style="background: linear-gradient(45deg, #4e0b2a, #6e2b1a); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="70" height="70" style="background: linear-gradient(45deg, white, grey); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
       </td>
     </tr>
   </table>
 </div>
 
 <!-- GITHUB STATS -->
-<h2 align="center" style="color: #ff00e6; text-shadow: 0 0 10px #ff00e6;">📈 SYSTEM METRICS</h2>
+<h2 align="center">📊 SYSTEM DIAGNOSTICS</h2>
 
-<div align="center" style="background: #0d1b2a; padding: 15px; border-radius: 15px; box-shadow: 0 0 15px rgba(255, 0, 230, 0.2); margin: 15px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=flowstxte&show_icons=true&theme=transparent&border_color=ff00e6&bg_color=0d1b2a&title_color=ff00e6&icon_color=00fff6&text_color=e0e0e0" alt="GitHub Stats">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=flowstxte&show_icons=true&theme=cyberpunk&border_color=00fbff&bg_color=0D1117&title_color=00fbff&icon_color=00fbff&text_color=00f6ff" alt="GitHub Stats">
 </div>
 
-<div align="center" style="background: #0d1b2a; padding: 15px; border-radius: 15px; box-shadow: 0 0 15px rgba(255, 0, 230, 0.2); margin: 15px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flowstxte&theme=transparent&background=0d1b2a&stroke=ff00e6&ring=00fff6&fire=ff00e6&currStreakNum=00fff6&sideNums=e0e0e0&currStreakLabel=ff00e6&sideLabels=e0e0e0&dates=979797" alt="GitHub Streak Stats">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flowstxte&theme=black-ice&background=0D1117&stroke=00f6ff&ring=00fbff&fire=00fbff&currStreakNum=00f6ff&sideNums=00f6ff&currStreakLabel=00fbff&sideLabels=00fbff&dates=979797" alt="GitHub Streak Stats">
 </div>
 
 <!-- SKILL BARS -->
-<h2 align="center" style="color: #ff00e6; text-shadow: 0 0 10px #ff00e6;">⚡️ POWER LEVELS</h2>
+<h2 align="center">⚡ SKILLS</h2>
 
 <div align="center">
-  <table style="background: #0d1b2a; border: 1px solid #ff00e6; border-radius: 10px; color: #e0e0e0; box-shadow: 0 0 10px #00fff6;">
+  <table>
     <tr>
-      <td><b style="color: #00fff6;">Python</b></td>
-      <td width="450">
-        <div style="background: #1a0b2e; border-radius: 8px; height: 30px; width: 100%; box-shadow: inset 0 0 5px #ff00e6;">
-          <div style="background: linear-gradient(90deg, #00fff6, #ff00e6); border-radius: 8px; height: 30px; width: 70%; animation: pulse 2s infinite;">
-            <p align="center" style="color: #0d1b2a; margin: 0; line-height: 30px; font-weight: bold;">70%</p>
+      <td><b>Python</b></td>
+      <td width="420">
+        <div style="background-color: #101010; border-radius: 5px; height: 25px; width: 100%;">
+          <div style="background-color: #00f6ff; border-radius: 5px; height: 25px; width: 70%;">
+            <p align="center" style="color: white; margin: 0; line-height: 25px;">70%</p>
           </div>
         </div>
       </td>
     </tr>
     <tr>
-      <td><b style="color: #00fff6;">JavaScript</b></td>
-      <td width="450">
-        <div style="background: #1a0b2e; border-radius: 8px; height: 30px; width: 100%; box-shadow: inset 0 0 5px #ff00e6;">
-          <div style="background: linear-gradient(90deg, #00fff6, #ff00e6); border-radius: 8px; height: 30px; width: 40%; animation: pulse 2s infinite;">
-            <p align="center" style="color: #0d1b2a; margin: 0; line-height: 30px; font-weight: bold;">40%</p>
+      <td><b>JavaScript</b></td>
+      <td width="420">
+        <div style="background-color: #101010; border-radius: 5px; height: 25px; width: 100%;">
+          <div style="background-color: #00f6ff; border-radius: 5px; height: 25px; width: 40%;">
+            <p align="center" style="color: white; margin: 0; line-height: 25px;">40%</p>
           </div>
         </div>
       </td>
     </tr>
     <tr>
-      <td><b style="color: #00fff6;">HTML</b></td>
-      <td width="450">
-        <div style="background: #1a0b2e; border-radius: 8px; height: 30px; width: 100%; box-shadow: inset 0 0 5px #ff00e6;">
-          <div style="background: linear-gradient(90deg, #00fff6, #ff00e6); border-radius: 8px; height: 30px; width: 60%; animation: pulse 2s infinite;">
-            <p align="center" style="color: #0d1b2a; margin: 0; line-height: 30px; font-weight: bold;">60%</p>
+      <td><b>HTML</b></td>
+      <td width="420">
+        <div style="background-color: #101010; border-radius: 5px; height: 25px; width: 100%;">
+          <div style="background-color: #00f6ff; border-radius: 5px; height: 25px; width: 60%;">
+            <p align="center" style="color: white; margin: 0; line-height: 25px;">60%</p>
           </div>
         </div>
       </td>
     </tr>
     <tr>
-      <td><b style="color: #00fff6;">CSS</b></td>
-      <td width="450">
-        <div style="background: #1a0b2e; border-radius: 8px; height: 30px; width: 100%; box-shadow: inset 0 0 5px #ff00e6;">
-          <div style="background: linear-gradient(90deg, #00fff6, #ff00e6); border-radius: 8px; height: 30px; width: 58%; animation: pulse 2s infinite;">
-            <p align="center" style="color: #0d1b2a; margin: 0; line-height: 30px; font-weight: bold;">58%</p>
+      <td><b>CSS</b></td>
+      <td width="420">
+        <div style="background-color: #101010; border-radius: 5px; height: 25px; width: 100%;">
+          <div style="background-color: #00f6ff; border-radius: 5px; height: 25px; width: 58%;">
+            <p align="center" style="color: white; margin: 0; line-height: 25px;">58%</p>
           </div>
         </div>
       </td>
@@ -122,29 +122,21 @@
   </table>
 </div>
 
-<style>
-@keyframes pulse {
-  0% { box-shadow: 0 0 5px #00fff6; }
-  50% { box-shadow: 0 0 15px #ff00e6; }
-  100% { box-shadow: 0 0 5px #00fff6; }
-}
-</style>
-
 <!-- CONNECT WITH ME -->
-<h2 align="center" style="color: #ff00e6; text-shadow: 0 0 10px #ff00e6;">📡 NEON LINKS</h2>
+<h2 align="center">📡 LINKS</h2>
 
-<div align="center" style="background: #0d1b2a; padding: 15px; border-radius: 15px; box-shadow: 0 0 15px rgba(255, 0, 230, 0.2); margin: 15px 0;">
+<div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=ff00e6&color=00fff6)](https://linkedin.com/in/ullas-sarker-tirtha)
-  [![GitHub](https://img.shields.io/badge/-GITHUB-0D1B2A?style=for-the-badge&logo=github&logoColor=00fff6&color=ff00e6)](https://github.com/flowstxte)
+  [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ullas-sarker-tirtha)
+  [![GitHub](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flowstxte)
   
 </div>
 
 <!-- FOOTER -->
-<div align="center" style="margin-top: 20px;">
-  <img src="https://i.imgur.com/YOUR_CYBERPUNK_FOOTER.gif" width="100%" alt="cyberpunk footer" style="border-radius: 10px; box-shadow: 0 0 15px #ff00e6;">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
   
-  <p style="background: #0d1b2a; padding: 8px; border-radius: 8px; display: inline-block; box-shadow: 0 0 10px #00fff6; margin-top: 10px;">
-    <img src="https://komarev.com/ghpvc/?username=flowstxte&label=SYSTEM%20SCANS&color=ff00e6&style=flat" alt="Profile Views">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=flowstxte&label=Profile%20views&color=00f6ff&style=flat" alt="Profile Views">
   </p>
 </div>
