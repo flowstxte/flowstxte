@@ -1,5 +1,5 @@
 <!-- HEADER ANIMATION -->
-![CyberpunkHeader](https://i.imgur.com/q4LJtI1.gif)
+![CyberpunkHeader](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <div align="center">
   
@@ -27,7 +27,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://i.imgur.com/PXdaKqd.gif" width="250px" alt="cyberpunk animation">
+      <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="250px" alt="cyberpunk animation">
     </td>
   </tr>
 </table>
@@ -37,23 +37,19 @@
 <h2 align="center">＜/＞ TECH STACK</h2>
 
 <div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
 </div>
 
 <!-- TOOLS -->
 <h2 align="center">⚙️ TOOLS</h2>
 
 <div align="center">
-  
-  ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="60" height="60"/>
 </div>
 
 <!-- GITHUB STATS -->
@@ -70,19 +66,60 @@
 <!-- SKILL BARS -->
 <h2 align="center">⚡ SKILLS</h2>
 
-```js
-class Developer {
-  constructor() {
-    this.name = "flowstxte";
-    this.skills = {
-      "Python":        "████████░░░░░░░░░░ 40%",
-      "JavaScript":    "██████░░░░░░░░░░░░ 30%",
-      "HTML":          "███████░░░░░░░░░░░ 35%",
-      "CSS":           "██████░░░░░░░░░░░░ 30%"
-    };
-  }
-}
-```
+<div align="center">
+  <table>
+    <tr>
+      <td><b>Python</b></td>
+      <td width="420">
+        <div style="background-color: #101010; border-radius: 5px; height: 25px; width: 100%;">
+          <div style="background-color: #00f6ff; border-radius: 5px; height: 25px; width: 70%;">
+            <p align="center" style="color: white; margin: 0; line-height: 25px;">70%</p>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td><b>JavaScript</b></td>
+      <td width="420">
+        <div style="background-color: #101010; border-radius: 5px; height: 25px; width: 100%;">
+          <div style="background-color: #00f6ff; border-radius: 5px; height: 25px; width: 40%;">
+            <p align="center" style="color: white; margin: 0; line-height: 25px;">40%</p>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td><b>HTML</b></td>
+      <td width="420">
+        <div style="background-color: #101010; border-radius: 5px; height: 25px; width: 100%;">
+          <div style="background-color: #00f6ff; border-radius: 5px; height: 25px; width: 60%;">
+            <p align="center" style="color: white; margin: 0; line-height: 25px;">60%</p>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td><b>CSS</b></td>
+      <td width="420">
+        <div style="background-color: #101010; border-radius: 5px; height: 25px; width: 100%;">
+          <div style="background-color: #00f6ff; border-radius: 5px; height: 25px; width: 58%;">
+            <p align="center" style="color: white; margin: 0; line-height: 25px;">58%</p>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Alternative for GitHub skill visualization -->
+<div align="center">
+  
+![Python](https://img.shields.io/static/v1?label=Python&message=70%&color=00f6ff&style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/static/v1?label=JavaScript&message=40%&color=00f6ff&style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/static/v1?label=HTML&message=60%&color=00f6ff&style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/static/v1?label=CSS&message=58%&color=00f6ff&style=for-the-badge&logo=css3)
+  
+</div>
 
 <!-- CONNECT WITH ME -->
 <h2 align="center">📡 UPLINK</h2>
@@ -96,11 +133,9 @@ class Developer {
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=flowstxte&label=Profile%20views&color=00f6ff&style=flat" alt="Profile Views">
   </p>
-  
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
