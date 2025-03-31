@@ -36,10 +36,12 @@
   <table>
     <tr>
       <td align="center" style="border: 2px solid #00F6FF; border-radius: 15px; padding: 20px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="70" height="70" style="background: linear-gradient(45deg, #306998, #FFE873); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70" style="background: linear-gradient(45deg, #F7DF1E, #FFD700); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="70" height="70" style="background: linear-gradient(45deg, #E44D26, #F16529); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="70" height="70" style="background: linear-gradient(45deg, #264de4, #2965f1); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
+        <img src="https://skillicons.dev/icons?i=python" alt="python" width="70" height="70" style="background: linear-gradient(45deg, #306998, #FFE873); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
+        <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="70" height="70" style="background: linear-gradient(45deg, #F7DF1E, #FFD700); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
+        <img src="https://skillicons.dev/icons?i=html" alt="html5" width="70" height="70" style="background: linear-gradient(45deg, #E44D26, #F16529); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
+        <img src="https://skillicons.dev/icons?i=css" alt="css3" width="70" height="70" style="background: linear-gradient(45deg, #264de4, #2965f1); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="70" height="70" style="background: linear-gradient(45deg, #7952B3, #553C7B); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
+        <img src="https://skillicons.dev/icons?i=react" alt="react" width="70" height="70" style="background: linear-gradient(45deg, #61DAFB, #20232A); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
       </td>
     </tr>
   </table>
@@ -52,23 +54,32 @@
   <table>
     <tr>
       <td align="center" style="border: 2px solid #00F6FF; border-radius: 15px; padding: 20px; background;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="70" height="70" style="background: linear-gradient(45deg, #0b2a4e, #1a4b6e); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="70" height="70" style="background: linear-gradient(45deg, #4e0b2a, #6e2b1a); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
+        <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="70" height="70" style="background: linear-gradient(45deg, #0b2a4e, #1a4b6e); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
+        <img src="https://skillicons.dev/icons?i=git" alt="git" width="70" height="70" style="background: linear-gradient(45deg, #4e0b2a, #6e2b1a); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
+        <img src="https://skillicons.dev/icons?i=replit" alt="replit" width="70" height="70" style="background: linear-gradient(45deg, #F26207, #1E2530); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
+        <img src="https://skillicons.dev/icons?i=webflow" alt="webflow" width="70" height="70" style="background: linear-gradient(45deg, #4353FF, #1B1F3D); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
       </td>
     </tr>
   </table>
 </div>
 
-
 <!-- GITHUB STATS -->
 <h2 align="center">// SYSTEM DIAGNOSTICS</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flowstxte&show_icons=true&theme=cyberpunk&border_color=00fbff&bg_color=0D1117&title_color=00fbff&icon_color=00fbff&text_color=00f6ff" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=flowstxte&show_icons=true&theme=cyberpunk&border_color=00fbff&bg_color=0D1117&title_color=00fbff&icon_color=00fbff&text_color=00f6ff&rank_icon=github" alt="GitHub Stats">
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=flowstxte&theme=black-ice&background=0D1117&stroke=00f6ff&ring=00fbff&fire=00fbff&currStreakNum=00f6ff&sideNums=00f6ff&currStreakLabel=00fbff&sideLabels=00fbff&dates=979797" alt="GitHub Streak Stats">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowstxte&layout=compact&theme=cyberpunk&border_color=00fbff&bg_color=0D1117&title_color=00fbff&text_color=00f6ff" alt="Most Used Languages">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/flowstxte/flowstxte/output/github-snake-dark.svg" alt="Contribution Snake">
 </div>
 
 <!-- SKILL BARS -->
