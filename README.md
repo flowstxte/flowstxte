@@ -67,16 +67,17 @@
 <h2 align="center">// SYSTEM DIAGNOSTICS</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flowstxte&show_icons=true&theme=cyberpunk&border_color=00fbff&bg_color=0D1117&title_color=00fbff&icon_color=00fbff&text_color=00f6ff&rank_icon=github" alt="GitHub Stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=flowstxte&show_icons=true&theme=cyberpunk&border_color=00fbff&bg_color=0D1117&title_color=00fbff&icon_color=00fbff&text_color=00f6ff&rank_icon=github&cache_seconds=86400" alt="GitHub Stats">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flowstxte&theme=black-ice&background=0D1117&stroke=00f6ff&ring=00fbff&fire=00fbff&currStreakNum=00f6ff&sideNums=00f6ff&currStreakLabel=00fbff&sideLabels=00fbff&dates=979797" alt="GitHub Streak Stats">
-</div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=flowstxte&theme=tokyonight&utcOffset=8" alt="Commit Activity">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowstxte&layout=compact&theme=cyberpunk&border_color=00fbff&bg_color=0D1117&title_color=00fbff&text_color=00f6ff" alt="Most Used Languages">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=flowstxte&layout=compact&theme=cyberpunk&border_color=00fbff&bg_color=0D1117&title_color=00fbff&text_color=00f6ff&cache_seconds=86400" alt="Most Used Languages">
 </div>
+ 
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/flowstxte/flowstxte/output/github-snake-dark.svg" alt="Contribution Snake">
