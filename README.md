@@ -80,7 +80,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/flowstxte/flowstxte/output/github-snake-dark.svg" alt="Contribution Snake">
+  <img src="https://raw.githubusercontent.com/flowstxte/flowstxte/output/github-snake-dark.svg?time=20250413" alt="Contribution Snake">
 </div>
 
 <!-- SKILL BARS -->
