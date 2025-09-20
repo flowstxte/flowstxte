@@ -1,19 +1,22 @@
 
 <div align="center">
-
+  
+```
 ██████╗ ██╗      ██████╗ ██╗    ██╗███████╗████████╗██╗  ██╗████████╗███████╗
 ██╔════╗██║     ██╔═══██╗██║    ██║██╔════╝╚══██╔══╝╚██╗██╔╝╚══██╔══╝██╔════╝
 ██████╔╝██║     ██║   ██║██║ █╗ ██║███████╗   ██║    ╚███╔╝    ██║   █████╗  
 ██╔════╗██║     ██║   ██║██║███╗██║╚════██║   ██║    ██╔██╗    ██║   ██╔══╝  
 ██║    ║███████╗╚██████╔╝╚███╔███╔╝███████║   ██║   ██╔╝ ██╗   ██║   ███████╗
 ╚═╝    ╚═══════╝ ╚═════╝  ╚══╝╚══╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚══════╝
+```
 
 <img src="https://readme-typing-svg.demolab.com/?lines=EXPLORING+NEW+TECHNOLOGIES;;DIGITAL%20ARCHITECT;ERROR%20404:%20SLEEP%20NOT%20FOUND;BREAKING%20THE%20MATRIX...;ACCESSING%20MAINFRAME...;CONNECTION%20ESTABLISHED...&font=Orbitron&center=true&width=600&height=50&color=F25623&vCenter=true&size=20&pause=1000" alt="Typing Animation"/>
 
 </div>
 
 <div align="center">
-
+  
+```
 ┌─────────────────────────────────────────────────────────────────┐
 │ > whoami                                                        │
 │ Computer Science & Engineering Student                          │
@@ -22,6 +25,7 @@
 │ > location                                                      │
 │ /home/flowstxte/matrix/reality.exe                              │
 └─────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -139,6 +143,7 @@
 
 <div align="center">
 
+```
 ┌─ ACCESSING MAINFRAME... ─────────────────────────────────────┐
 │  [████████████████████████████████████████████████] 100%    │
 │  > Retrieving data from GitHub servers...                   │
@@ -146,6 +151,7 @@
 │  > Analyzing code contribution patterns...                  │
 │  > STATUS: CONNECTION ESTABLISHED                           │
 └──────────────────────────────────────────────────────────────┘
+```
 
 <img src="https://github-readme-stats.vercel.app/api?username=flowstxte&show_icons=true&theme=radical&border_color=F25623&bg_color=0D1117&title_color=F25623&icon_color=F25623&text_color=DEDEDE&ring_color=F25623&fire=F25623&sideNums=F25623&hide_border=true" alt="GitHub Stats" />
 
@@ -168,6 +174,7 @@
 <!-- SKILL BARS -->
 <h2 align="center">// SKILLS</h2>
 
+```
 ┌──────────────── SKILL_ASSESSMENT.exe ─────────────────────┐
 │                                                           │
 │  Python      ████████████████████████████████████    70%  │
@@ -178,6 +185,7 @@
 │                                                           │
 │ Status: [EVOLVING] | Mode: [LEARNING] | Target: [MASTERY] │
 └───────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
   
