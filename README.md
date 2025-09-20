@@ -1,14 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/flowstxte.gif)
 <div align="center">
-  
-```
-██████╗ ██╗      ██████╗ ██╗    ██╗███████╗████████╗██╗  ██╗████████╗███████╗
-██╔════╗██║     ██╔═══██╗██║    ██║██╔════╝╚══██╔══╝╚██╗██╔╝╚══██╔══╝██╔════╝
-██████╔╝██║     ██║   ██║██║ █╗ ██║███████╗   ██║    ╚███╔╝    ██║   █████╗  
-██╔════╗██║     ██║   ██║██║███╗██║╚════██║   ██║    ██╔██╗    ██║   ██╔══╝  
-██║    ║███████╗╚██████╔╝╚███╔███╔╝███████║   ██║   ██╔╝ ██╗   ██║   ███████╗
-╚═╝    ╚═══════╝ ╚═════╝  ╚══╝╚══╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚══════╝
-```
 
 <img src="https://readme-typing-svg.demolab.com/?lines=EXPLORING+NEW+TECHNOLOGIES;;DIGITAL%20ARCHITECT;ERROR%20404:%20SLEEP%20NOT%20FOUND;BREAKING%20THE%20MATRIX...;ACCESSING%20MAINFRAME...;CONNECTION%20ESTABLISHED...&font=Orbitron&center=true&width=600&height=50&color=F25623&vCenter=true&size=20&pause=1000" alt="Typing Animation"/>
 
