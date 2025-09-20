@@ -18,9 +18,9 @@
 ```
 </div>
 
-<!-- CUSTOM ORANGE GLITCH -->
+<!-- ORANGE GLITCH SEPARATOR -->
 <div align="center">
-  <img src="data:image/svg+xml,%3Csvg width='800' height='20' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='100%25' height='3' y='8' fill='%23F25623'/%3E%3Crect width='70%25' height='2' y='12' fill='%23F25623' opacity='0.7'/%3E%3Crect width='90%25' height='1' y='15' fill='%23F25623' opacity='0.5'/%3E%3C/svg%3E" width="100%" alt="Orange Glitch"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F25623&height=10&section=header&animation=blinking" width="100%" alt="Orange Glitch Line"/>
 </div>
 
 <!-- ABOUT ME SECTION -->
