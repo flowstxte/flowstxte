@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/flowstxte_animate.gif)
+![MasterHead](https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/flowstxte.gif)
 <div align="center">
   
 ```
