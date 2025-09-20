@@ -1,8 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/flowstxte.gif)
+
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com/?lines=EXPLORING+NEW+TECHNOLOGIES;;DIGITAL%20ARCHITECT;ERROR%20404:%20SLEEP%20NOT%20FOUND;BREAKING%20THE%20MATRIX...;ACCESSING%20MAINFRAME...;CONNECTION%20ESTABLISHED...&font=Orbitron&center=true&width=600&height=50&color=F25623&vCenter=true&size=20&pause=1000" alt="Typing Animation"/>
-
 </div>
 
 <div align="center">
@@ -58,8 +57,6 @@
 
 <!-- TECH STACK -->
 <h2 align="center">＜/＞ TECH STACK</h2>
-
-</div>
 
 <div align="center">
 
@@ -181,7 +178,9 @@
 │ Status: [EVOLVING] | Mode: [LEARNING] | Target: [MASTERY] │
 └───────────────────────────────────────────────────────────┘
 ```
+</div>
 
+<!-- CONNECT WITH ME -->
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-F25623?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=171717&border=F25623)](https://linkedin.com/in/ullas-sarker-tirtha)
@@ -194,9 +193,11 @@
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=flowstxte&label=//SCANS&color=F25623&style=flat&labelColor=171717" alt="Profile Views"/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" alt="Matrix Footer"/>
 
 </div>
+
 <!-- MATRIX RAIN EFFECT -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F25623&height=120&section=footer&animation=fadeIn&fontAlignY=65&fontSize=30&fontColor=DEDEDE&desc=『%20SYSTEM%20TERMINATED%20』&descAlignY=85&descAlign=50" width="100%"/>
