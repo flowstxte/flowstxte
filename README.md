@@ -67,20 +67,29 @@
 <h2 align="center">// SYSTEM DIAGNOSTICS</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=flowstxte&show_icons=true&theme=cyberpunk&border_color=00fbff&bg_color=0D1117&title_color=00fbff&icon_color=00fbff&text_color=00f6ff&rank_icon=github&cache_seconds=1" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=flowstxte&show_icons=true&theme=tokyonight&border_color=00fbff&bg_color=0D1117&title_color=00fbff&icon_color=00fbff&text_color=00f6ff&rank_icon=github&hide_border=false" alt="GitHub Stats" width="400">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowstxte&layout=compact&theme=tokyonight&border_color=00fbff&bg_color=0D1117&title_color=00fbff&text_color=00f6ff&hide_border=false" alt="Most Used Languages" width="400">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flowstxte&theme=tokyonight&border=00fbff&background=0D1117&ring=00fbff&fire=00fbff&currStreakLabel=00f6ff&sideLabels=00f6ff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" width="400">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flowstxte&theme=tokyonight" alt="Profile Summary" width="600">
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=flowstxte&theme=tokyonight&utcOffset=8&timestamp=1" alt="Commit Activity">
-
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=flowstxte&layout=compact&theme=cyberpunk&border_color=00fbff&bg_color=0D1117&title_color=00fbff&text_color=00f6ff&cache_seconds=1" alt="Most Used Languages">
-</div>
- 
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/flowstxte/flowstxte/output/github-snake-dark.svg?time=20250413" alt="Contribution Snake">
+  <img src="https://raw.githubusercontent.com/flowstxte/flowstxte/output/github-snake-dark.svg" alt="Contribution Snake">
 </div>
 
 <!-- SKILL BARS -->
