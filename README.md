@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │ > whoami                                                        │
@@ -16,12 +16,11 @@
 │ /home/flowstxte/matrix/reality.exe                              │
 └─────────────────────────────────────────────────────────────────┘
 ```
-
 </div>
 
-<!-- ORANGE GLITCH SEPARATOR -->
+<!-- CUSTOM ORANGE GLITCH -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="Orange Glitch Line"/>
+  <img src="data:image/svg+xml,%3Csvg width='800' height='20' xmlns='http://www.w3.org/2000/svg'%3E%3Crect width='100%25' height='3' y='8' fill='%23F25623'/%3E%3Crect width='70%25' height='2' y='12' fill='%23F25623' opacity='0.7'/%3E%3Crect width='90%25' height='1' y='15' fill='%23F25623' opacity='0.5'/%3E%3C/svg%3E" width="100%" alt="Orange Glitch"/>
 </div>
 
 <!-- ABOUT ME SECTION -->
@@ -47,7 +46,6 @@
 
 <!-- TECH STACK -->
 <h2 align="center">＜/＞ TECH STACK</h2>
-
 <div align="center">
 
 <table>
@@ -115,9 +113,7 @@
 </div>
 
 <!-- GITHUB MATRIX STATS -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" height="35">『 MATRIX STATISTICS 』<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" height="35">
+<h2 align="center">『 MATRIX STATISTICS 』</h2>
 
 </div>
 
