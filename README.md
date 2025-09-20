@@ -19,19 +19,9 @@
 
 </div>
 
-<!-- CUSTOM ORANGE GLITCH -->
+<!-- ORANGE GLITCH SEPARATOR -->
 <div align="center">
-  <svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <style>
-        .glitch-line { fill: #F25623; animation: glitch 0.5s infinite; }
-        @keyframes glitch { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; transform: translateX(2px); } }
-      </style>
-    </defs>
-    <rect class="glitch-line" width="100%" height="3" y="8"/>
-    <rect class="glitch-line" width="70%" height="2" y="12" style="animation-delay: 0.2s;"/>
-    <rect class="glitch-line" width="90%" height="1" y="15" style="animation-delay: 0.4s;"/>
-  </svg>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="3" alt="Orange Glitch Line"/>
 </div>
 
 <!-- ABOUT ME SECTION -->
