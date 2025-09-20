@@ -1,20 +1,41 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*mB6YLIGqIk1hTzU6Fb12zQ.gif)
 
 <div align="center">
   
-# 『 FLOWSTXTE 』
-## Computer Science & Engineering Student
+```
+██████╗ ██╗      ██████╗ ██╗    ██╗███████╗████████╗██╗  ██╗████████╗███████╗
+██╔════╗██║     ██╔═══██╗██║    ██║██╔════╝╚══██╔══╝╚██╗██╔╝╚══██╔══╝██╔════╝
+██████╔╝██║     ██║   ██║██║ █╗ ██║███████╗   ██║    ╚███╔╝    ██║   █████╗  
+██╔════╗██║     ██║   ██║██║███╗██║╚════██║   ██║    ██╔██╗    ██║   ██╔══╝  
+██║    ║███████╗╚██████╔╝╚███╔███╔╝███████║   ██║   ██╔╝ ██╗   ██║   ███████╗
+╚═╝    ╚═══════╝ ╚═════╝  ╚══╝╚══╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚══════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com/?lines=EXPLORING+NEW+TECHNOLOGIES;;DIGITAL%20ARCHITECT;ERROR%20404:%20SLEEP%20NOT%20FOUND;BREAKING%20THE%20MATRIX...;ACCESSING%20MAINFRAME...;CONNECTION%20ESTABLISHED...&font=Orbitron&center=true&width=600&height=50&color=F25623&vCenter=true&size=20&pause=1000" alt="Typing Animation"/>
 
 </div>
 
-<div align="center" style="margin: 20px 0;">
+<div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=800&color=00F6FF&background=1A0B2E00&width=450&lines=Building+The+Digital+Future;Exploring+New+Technologies;Error+404%3A+Sleep+Not+Found)](https://git.io/typing-svg)
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ > whoami                                                        │
+│ Computer Science & Engineering Student                          │
+│ > status                                                        │
+│ █████████████████████████████████████████████████ ONLINE        │
+│ > location                                                      │
+│ /home/flowstxte/matrix/reality.exe                              │
+└─────────────────────────────────────────────────────────────────┘
+```
 
+</div>
+
+<!-- MATRIX DOT ANIMATION -->
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%" height="2" alt="Matrix Line"/>
 </div>
 
 <!-- ABOUT ME SECTION -->
-<h2 align="center">// SYSTEM INFO</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35"> // SYSTEM INFO <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35"></h2>
 <div align="center">
 <table>
   <tr>
@@ -29,132 +50,159 @@
 </table>
 </div>
 
+<!-- GLITCH SEPARATOR -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" alt="Glitch Line"/>
+</div>
+
 <!-- TECH STACK -->
 <h2 align="center">＜/＞ TECH STACK</h2>
 
-<div align="center" style="background; padding: 25px; border-radius: 15px; box-shadow: 0 0 15px rgba(0, 255, 242, 0.2);">
-  <table>
-    <tr>
-      <td align="center" style="border: 2px solid #00F6FF; border-radius: 15px; padding: 20px;">
-        <img src="https://skillicons.dev/icons?i=python" alt="python" width="70" height="70" style="background: linear-gradient(45deg, #306998, #FFE873); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
-        <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="70" height="70" style="background: linear-gradient(45deg, #F7DF1E, #FFD700); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
-        <img src="https://skillicons.dev/icons?i=html" alt="html5" width="70" height="70" style="background: linear-gradient(45deg, #E44D26, #F16529); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
-        <img src="https://skillicons.dev/icons?i=css" alt="css3" width="70" height="70" style="background: linear-gradient(45deg, #264de4, #2965f1); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="70" height="70" style="background: linear-gradient(45deg, #7952B3, #553C7B); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
-        <img src="https://skillicons.dev/icons?i=react" alt="react" width="70" height="70" style="background: linear-gradient(45deg, #61DAFB, #20232A); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
-      </td>
-    </tr>
-  </table>
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100" height="100">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="100" height="100">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="100" height="100">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br><strong>React</strong>
+</td>
+<td align="center" width="100" height="100">
+<img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="100" height="100">
+<img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="65" height="65" />
+<br><strong>CSS3</strong>
+</td>
+<td align="center" width="100" height="100">
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="65" height="65" />
+<br><strong>Bootstrap</strong>
+</td>
+</tr>
+</table>
+
 </div>
 
 <!-- TOOLS -->
 <h2 align="center">// TOOLS</h2>
 
-<div align="center" style="background; padding: 25px; border-radius: 15px; box-shadow: 0 0 15px rgba(0, 255, 242, 0.2);">
-  <table>
-    <tr>
-      <td align="center" style="border: 2px solid #00F6FF; border-radius: 15px; padding: 20px; background;">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="70" height="70" style="background: linear-gradient(45deg, #0b2a4e, #1a4b6e); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
-        <img src="https://skillicons.dev/icons?i=git" alt="git" width="70" height="70" style="background: linear-gradient(45deg, #4e0b2a, #6e2b1a); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
-        <img src="https://skillicons.dev/icons?i=replit" alt="replit" width="70" height="70" style="background: linear-gradient(45deg, #F26207, #1E2530); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
-        <img src="https://skillicons.dev/icons?i=webflow" alt="webflow" width="70" height="70" style="background: linear-gradient(45deg, #4353FF, #1B1F3D); padding: 12px; border-radius: 12px; box-shadow: 0 0 10px #00F6FF;"/>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100" height="100">
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="65" height="65" />
+<br><strong>VS Code</strong>
+</td>
+<td align="center" width="100" height="100">
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
+<br><strong>Git</strong>
+</td>
+<td align="center" width="100" height="100">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="65" height="65" />
+<br><strong>GitHub</strong>
+</td>
+<td align="center" width="100" height="100">
+<img src="https://skillicons.dev/icons?i=replit" alt="Replit" width="65" height="65" />
+<br><strong>Replit</strong>
+</td>
+<td align="center" width="100" height="100">
+<img src="https://skillicons.dev/icons?i=webflow" alt="Webflow" width="65" height="65" />
+<br><strong>Webflow</strong>
+</td>
+<td align="center" width="100" height="100">
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="65" height="65" />
+<br><strong>Linux</strong>
+</td>
+</tr>
+</table>
+
 </div>
 
-<!-- GITHUB STATS -->
-<h2 align="center">// SYSTEM DIAGNOSTICS</h2>
-
+<!-- MATRIX SEPARATOR -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flowstxte&show_icons=true&theme=tokyonight&border_color=00fbff&bg_color=0D1117&title_color=00fbff&icon_color=00fbff&text_color=00f6ff&rank_icon=github&hide_border=false" alt="GitHub Stats" width="400">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" alt="Matrix Line"/>
 </div>
 
-<br>
-
+<!-- GITHUB MATRIX STATS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowstxte&layout=compact&theme=tokyonight&border_color=00fbff&bg_color=0D1117&title_color=00fbff&text_color=00f6ff&hide_border=false" alt="Most Used Languages" width="400">
-</div>
 
-<br>
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" height="35"> **『 MATRIX STATISTICS 』** <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" height="35">
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flowstxte&theme=tokyonight&border=00fbff&background=0D1117&ring=00fbff&fire=00fbff&currStreakLabel=00f6ff&sideLabels=00f6ff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" width="400">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flowstxte&theme=tokyonight" alt="Profile Summary" width="600">
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/flowstxte/flowstxte/output/github-snake-dark.svg" alt="Contribution Snake">
+
+```
+┌─ ACCESSING MAINFRAME... ─────────────────────────────────────┐
+│  [████████████████████████████████████████████████] 100%    │
+│  > Retrieving data from GitHub servers...                   │
+│  > Decrypting repository information...                     │
+│  > Analyzing code contribution patterns...                  │
+│  > STATUS: CONNECTION ESTABLISHED                           │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=flowstxte&show_icons=true&theme=radical&border_color=F25623&bg_color=0D1117&title_color=F25623&icon_color=F25623&text_color=DEDEDE&ring_color=F25623&fire=F25623&sideNums=F25623&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=flowstxte&theme=radical&border=F25623&background=0D1117&ring=F25623&fire=F25623&currStreakLabel=F25623&sideLabels=F25623&currStreakNum=DEDEDE&sideNums=DEDEDE&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowstxte&layout=compact&theme=radical&border_color=F25623&bg_color=0D1117&title_color=F25623&text_color=DEDEDE&hide_border=true" alt="Top Languages" />
+
+</div>
+
+<!-- CONTRIBUTION GRAPH -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flowstxte&bg_color=0d1117&color=f25623&line=f25623&point=f25623&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+</div>
+
+<!-- CODING SNAKE -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/flowstxte/flowstxte/output/github-snake-dark.svg" alt="Snake Animation" width="100%"/>
 </div>
 
 <!-- SKILL BARS -->
 <h2 align="center">// SKILLS</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td><b>Python</b></td>
-      <td width="420">
-        <div style="background-color: #101010; border-radius: 5px; height: 25px; width: 100%;">
-          <div style="background-color: #00f6ff; border-radius: 5px; height: 25px; width: 70%;">
-            <p align="center" style="color: white; margin: 0; line-height: 25px;">70%</p>
-          </div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td><b>JavaScript</b></td>
-      <td width="420">
-        <div style="background-color: #101010; border-radius: 5px; height: 25px; width: 100%;">
-          <div style="background-color: #00f6ff; border-radius: 5px; height: 25px; width: 40%;">
-            <p align="center" style="color: white; margin: 0; line-height: 25px;">40%</p>
-          </div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td><b>HTML</b></td>
-      <td width="420">
-        <div style="background-color: #101010; border-radius: 5px; height: 25px; width: 100%;">
-          <div style="background-color: #00f6ff; border-radius: 5px; height: 25px; width: 60%;">
-            <p align="center" style="color: white; margin: 0; line-height: 25px;">60%</p>
-          </div>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td><b>CSS</b></td>
-      <td width="420">
-        <div style="background-color: #101010; border-radius: 5px; height: 25px; width: 100%;">
-          <div style="background-color: #00f6ff; border-radius: 5px; height: 25px; width: 58%;">
-            <p align="center" style="color: white; margin: 0; line-height: 25px;">58%</p>
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- CONNECT WITH ME -->
-<h2 align="center">// LINKS</h2>
+```bash
+┌──────────────── SKILL_ASSESSMENT.exe ─────────────────────┐
+│                                                           │
+│  Python      ████████████████████████████████████    70%  │
+│  JavaScript  ████████████████████████                40%  │
+│  HTML        ██████████████████████████████████      60%  │
+│  CSS         █████████████████████████████████       58%  │
+│  React       ████████████████████████                35%  │
+│                                                           │
+│ Status: [EVOLVING] | Mode: [LEARNING] | Target: [MASTERY] │
+└───────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ullas-sarker-tirtha)
-  [![GitHub](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flowstxte)
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-F25623?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=171717&border=F25623)](https://linkedin.com/in/ullas-sarker-tirtha)
+  [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-F25623?style=for-the-badge&logo=github&logoColor=white&labelColor=171717)](https://github.com/flowstxte)
+  [![Email](https://img.shields.io/badge/EMAIL-CONTACT-F25623?style=for-the-badge&logo=gmail&logoColor=white&labelColor=171717)](mailto:iitztirtha@gmail.com)
   
 </div>
 
-<!-- FOOTER -->
+<!-- SYSTEM FOOTER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=flowstxte&label=Profile%20views&color=00f6ff&style=flat" alt="Profile Views">
-  </p>
+
+<img src="https://komarev.com/ghpvc/?username=flowstxte&label=//SCANS&color=F25623&style=flat&labelColor=171717" alt="Profile Views"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" alt="Matrix Footer"/>
+
+</div>
+<!-- MATRIX RAIN EFFECT -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F25623&height=120&section=footer&animation=fadeIn&fontAlignY=65&fontSize=30&fontColor=DEDEDE&desc=『%20SYSTEM%20TERMINATED%20』&descAlignY=85&descAlign=50" width="100%"/>
 </div>
