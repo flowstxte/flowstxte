@@ -1,4 +1,4 @@
-
+![MasterHead](https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/flowstxte_animate.gif)
 <div align="center">
   
 ```
@@ -29,13 +29,23 @@
 
 </div>
 
-<!-- MATRIX DOT ANIMATION -->
+<!-- CUSTOM ORANGE GLITCH -->
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="100%" height="2" alt="Matrix Line"/>
+  <svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <style>
+        .glitch-line { fill: #F25623; animation: glitch 0.5s infinite; }
+        @keyframes glitch { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; transform: translateX(2px); } }
+      </style>
+    </defs>
+    <rect class="glitch-line" width="100%" height="3" y="8"/>
+    <rect class="glitch-line" width="70%" height="2" y="12" style="animation-delay: 0.2s;"/>
+    <rect class="glitch-line" width="90%" height="1" y="15" style="animation-delay: 0.4s;"/>
+  </svg>
 </div>
 
 <!-- ABOUT ME SECTION -->
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35"> // SYSTEM INFO <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35"></h2>
+<h2 align="center">// SYSTEM INFO</h2>
 <div align="center">
 <table>
   <tr>
@@ -116,14 +126,6 @@
 <img src="https://skillicons.dev/icons?i=replit" alt="Replit" width="65" height="65" />
 <br><strong>Replit</strong>
 </td>
-<td align="center" width="100" height="100">
-<img src="https://skillicons.dev/icons?i=webflow" alt="Webflow" width="65" height="65" />
-<br><strong>Webflow</strong>
-</td>
-<td align="center" width="100" height="100">
-<img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="65" height="65" />
-<br><strong>Linux</strong>
-</td>
 </tr>
 </table>
 
@@ -137,7 +139,7 @@
 <!-- GITHUB MATRIX STATS -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" height="35"> **『 MATRIX STATISTICS 』** <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" height="35">
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" height="35">『 MATRIX STATISTICS 』<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" height="35">
 
 </div>
 
