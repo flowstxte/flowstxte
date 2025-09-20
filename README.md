@@ -174,6 +174,8 @@
 <!-- SKILL BARS -->
 <h2 align="center">// SKILLS</h2>
 
+<div align="center">
+
 ```
 ┌──────────────── SKILL_ASSESSMENT.exe ─────────────────────┐
 │                                                           │
