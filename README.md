@@ -6,16 +6,23 @@
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│ > whoami                                                        │
-│ Computer Science & Engineering Student                          │
-│ > status                                                        │
-│ █████████████████████████████████████████████████ ONLINE        │
-│ > location                                                      │
-│ /home/flowstxte/matrix/reality.exe                              │
-└─────────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td>
+
+**> whoami**  
+Computer Science & Engineering Student  
+
+**> status**  
+██████████████████████ ONLINE  
+
+**> location**  
+/home/flowstxte/matrix/reality.exe  
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <!-- ORANGE GLITCH SEPARATOR -->
@@ -49,34 +56,51 @@
 <div align="center">
 
 <table>
-<tr>
-<td align="center" width="100" height="100">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-<br><strong>Python</strong>
-</td>
-<td align="center" width="100" height="100">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<br><strong>JavaScript</strong>
-</td>
-<td align="center" width="100" height="100">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<br><strong>React</strong>
-</td>
-<td align="center" width="100" height="100">
-<img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65" />
-<br><strong>HTML5</strong>
-</td>
-<td align="center" width="100" height="100">
-<img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="65" height="65" />
-<br><strong>CSS3</strong>
-</td>
-<td align="center" width="100" height="100">
-<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="65" height="65" />
-<br><strong>Bootstrap</strong>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="100" height="100">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="100" height="100">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="100" height="100">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/c.svg" alt="C" width="65" height="65" />
+      <br><strong>C</strong>
+    </td>
+    <td align="center" width="100" height="100">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/kotlin.svg" alt="Kotlin" width="65" height="65" />
+      <br><strong>Kotlin</strong>
+    </td>
+    <td align="center" width="100" height="100">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="65" height="65" />
+      <br><strong>CSS3</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100" height="100">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br><strong>React</strong>
+    </td>
+    <td align="center" width="100" height="100">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" alt="Node.js" width="65" height="65" />
+      <br><strong>Node.js</strong>
+    </td>
+    <td align="center" width="100" height="100">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/express.svg" alt="Express" width="65" height="65" />
+      <br><strong>Express</strong>
+    </td>
+    <td align="center" width="100" height="100">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center" width="100" height="100">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65" />
+      <br><strong>HTML5</strong>
+    </td>
+  </tr>
 </table>
-
 </div>
 
 <!-- TOOLS -->
@@ -119,17 +143,23 @@
 
 <div align="center">
 
-```
-┌─ ACCESSING MAINFRAME... ─────────────────────────────────────┐
-│  [████████████████████████████████████████████████] 100%    │
-│  > Retrieving data from GitHub servers...                   │
-│  > Decrypting repository information...                     │
-│  > Analyzing code contribution patterns...                  │
-│  > STATUS: CONNECTION ESTABLISHED                           │
-└──────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=flowstxte&show_icons=true&theme=radical&border_color=F25623&bg_color=0D1117&title_color=F25623&icon_color=F25623&text_color=DEDEDE&ring_color=F25623&fire=F25623&sideNums=F25623&hide_border=true" alt="GitHub Stats" />
+**ACCESSING MAINFRAME...**  
+[██████████████████████] 100%  
+
+**> Retrieving data from GitHub servers...**  
+**> Decrypting repository information...**  
+**> Analyzing code contribution patterns...**  
+**> STATUS: CONNECTION ESTABLISHED**  
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api?username=flowstxte&show_icons=true&theme=radical&border_color=F25623&bg_color=0D1117&title_color=F25623&icon_color=F25623&text_color=DEDEDE&ring_color=F25623&fire=F25623&sideNums=F25623&hide_border=true&rank_icon=percentile" alt="GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=flowstxte&theme=radical&border=F25623&background=0D1117&ring=F25623&fire=F25623&currStreakLabel=F25623&sideLabels=F25623&currStreakNum=DEDEDE&sideNums=DEDEDE&hide_border=true" alt="GitHub Streak" />
 
@@ -152,25 +182,30 @@
 
 <div align="center">
 
-```
-┌──────────────── SKILL_ASSESSMENT.exe ─────────────────────┐
-│                                                           │
-│  Python      ████████████████████████████████████    70%  │
-│  JavaScript  ████████████████████████                40%  │
-│  HTML        ██████████████████████████████████      60%  │
-│  CSS         █████████████████████████████████       58%  │
-│  React       ████████████████████████                35%  │
-│                                                           │
-│ Status: [EVOLVING] | Mode: [LEARNING] | Target: [MASTERY] │
-└───────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td>
+
+**SKILL_ASSESSMENT.exe**  
+
+**Python**      ██████████████████████████████    **70%**  
+**JavaScript**  ████████████████████████          **40%**  
+**HTML**        █████████████████████████████     **60%**  
+**CSS**         ████████████████████████████      **58%**  
+**React**       ███████████████████████           **35%**  
+
+**Status: [EVOLVING] | Mode: [LEARNING] | Target: [MASTERY]**
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <!-- CONNECT WITH ME -->
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-F25623?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=171717&border=F25623)](https://linkedin.com/in/ullas-sarker-tirtha)
-  [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-F25623?style=for-the-badge&logo=github&logoColor=white&labelColor=171717)](https://github.com/flowstxte)
   [![Email](https://img.shields.io/badge/EMAIL-CONTACT-F25623?style=for-the-badge&logo=gmail&logoColor=white&labelColor=171717)](mailto:iitztirtha@gmail.com)
   
 </div>
