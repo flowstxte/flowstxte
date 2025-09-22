@@ -66,34 +66,26 @@ Computer Science & Engineering Student
       <br><strong>JavaScript</strong>
     </td>
     <td align="center" width="100" height="100">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/c.svg" alt="C" width="65" height="65" />
-      <br><strong>C</strong>
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br><strong>React</strong>
     </td>
     <td align="center" width="100" height="100">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/kotlin.svg" alt="Kotlin" width="65" height="65" />
-      <br><strong>Kotlin</strong>
-    </td>
-    <td align="center" width="100" height="100">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="65" height="65" />
-      <br><strong>CSS3</strong>
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br><strong>MySQL</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="100" height="100">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br><strong>React</strong>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/kotlin.svg" alt="Kotlin" width="65" height="65" />
+      <br><strong>Kotlin</strong>
     </td>
     <td align="center" width="100" height="100">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" alt="Node.js" width="65" height="65" />
       <br><strong>Node.js</strong>
     </td>
     <td align="center" width="100" height="100">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/express.svg" alt="Express" width="65" height="65" />
-      <br><strong>Express</strong>
-    </td>
-    <td align="center" width="100" height="100">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br><strong>MySQL</strong>
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="65" height="65" />
+      <br><strong>CSS3</strong>
     </td>
     <td align="center" width="100" height="100">
       <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65" />
@@ -186,16 +178,15 @@ Computer Science & Engineering Student
 <tr>
 <td>
 
-**SKILL_ASSESSMENT.exe**  
+Python ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱ 70%
 
-**Python**      ██████████████████████████████    **70%**  
-**JavaScript**  ████████████████████████          **40%**  
-**HTML**        █████████████████████████████     **60%**  
-**CSS**         ████████████████████████████      **58%**  
-**React**       ███████████████████████           **35%**  
+JavaScript ▰▰▰▰▰▰▰▱▱▱▱▱▱▱ 40%
 
-**Status: [EVOLVING] | Mode: [LEARNING] | Target: [MASTERY]**
+HTML ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱ 60%
 
+CSS ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱ 58%
+
+React ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱ 35%
 </td>
 </tr>
 </table>
