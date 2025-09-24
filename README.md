@@ -153,8 +153,6 @@ Computer Science & Engineering Student
 
 <img src="https://github-readme-stats.vercel.app/api?username=flowstxte&show_icons=true&theme=radical&border_color=F25623&bg_color=0D1117&title_color=F25623&icon_color=F25623&text_color=DEDEDE&ring_color=F25623&fire=F25623&sideNums=F25623&hide_border=true&rank_icon=percentile" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=flowstxte&theme=radical&border=F25623&background=0D1117&ring=F25623&fire=F25623&currStreakLabel=F25623&sideLabels=F25623&currStreakNum=DEDEDE&sideNums=DEDEDE&hide_border=true" alt="GitHub Streak" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowstxte&layout=compact&theme=radical&border_color=F25623&bg_color=0D1117&title_color=F25623&text_color=DEDEDE&hide_border=true" alt="Top Languages" />
 
 </div>
@@ -209,6 +207,7 @@ React ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱ 35%
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" alt="Matrix Footer"/>
 
 </div>
+
 
 <!-- MATRIX RAIN EFFECT -->
 <div align="center">
