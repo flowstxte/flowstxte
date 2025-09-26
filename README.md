@@ -76,8 +76,8 @@ Computer Science & Engineering Student
   </tr>
   <tr>
     <td align="center" width="100" height="100">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/kotlin.svg" alt="Kotlin" width="65" height="65" />
-      <br><strong>Kotlin</strong>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/flutter.svg" alt="Flutter" width="65" height="65" />
+      <br><strong>Flutter</strong>
     </td>
     <td align="center" width="100" height="100">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" alt="Node.js" width="65" height="65" />
