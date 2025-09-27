@@ -12,8 +12,10 @@
 
 **> whoami**  
 ullas sarker tirtha
+
 **> status**  
 computer science student
+
 **> location**  
 /dhaka/bangladesh
 
@@ -23,7 +25,7 @@ computer science student
 
 </div>
 
-<!-- ORANGE GLITCH SEPARATOR -->
+<!-- ORANGE SEPARATOR -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F25623&height=10&section=header&animation=blinking" width="100%" alt="Orange Glitch Line"/>
 </div>
@@ -121,13 +123,13 @@ computer science student
 
 </div>
 
-<!-- MATRIX SEPARATOR -->
+<!-- SEPARATOR -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" alt="Matrix Line"/>
 </div>
 
-<!-- GITHUB MATRIX STATS -->
-<h2 align="center">『 MATRIX STATISTICS 』</h2>
+<!-- GITHUB STATS -->
+<h2 align="center">『 STATISTICS 』</h2>
 
 </div>
 
@@ -165,29 +167,7 @@ computer science student
   <img src="https://raw.githubusercontent.com/flowstxte/flowstxte/output/github-snake-dark.svg" alt="Snake Animation" width="100%"/>
 </div>
 
-<!-- SKILL BARS -->
-<h2 align="center">// SKILLS</h2>
 
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-Python ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱ 70%
-
-JavaScript ▰▰▰▰▰▰▰▱▱▱▱▱▱▱ 40%
-
-HTML ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱ 60%
-
-CSS ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱ 58%
-
-React ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱ 35%
-</td>
-</tr>
-</table>
-
-</div>
 
 <!-- CONNECT WITH ME -->
 <div align="center">
@@ -207,7 +187,7 @@ React ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱ 35%
 </div>
 
 
-<!-- MATRIX RAIN EFFECT -->
+<!-- EFFECT -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F25623&height=120&section=footer&animation=fadeIn&fontAlignY=65&fontSize=30&fontColor=DEDEDE&desc=『%20SYSTEM%20TERMINATED%20』&descAlignY=85&descAlign=50" width="100%"/>
 </div>
