@@ -11,13 +11,11 @@
 <td>
 
 **> whoami**  
-Computer Science Student  
-
+ullas sarker tirtha
 **> status**  
-ONLINE  
-
+computer science student
 **> location**  
-/home/flowstxte.exe
+/dhaka/bangladesh
 
 </td>
 </tr>
@@ -38,7 +36,7 @@ ONLINE
     <td>
       <ul>
         <li><b>Currently Mastering:</b> Python, JavaScript</li>
-        <li><b>System Status:</b> Running and Learning</li>
+        <li><b>System Status:</b> Online and Learning</li>
         <li><b>Next Objective:</b> Full-Stack Development</li>
       </ul>
     </td>
