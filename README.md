@@ -80,8 +80,8 @@ computer science student
       <br><strong>Flutter</strong>
     </td>
     <td align="center" width="100" height="100">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" alt="Node.js" width="65" height="65" />
-      <br><strong>Node.js</strong>
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" />
+      <br><strong>Next.js</strong>
     </td>
     <td align="center" width="100" height="100">
       <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="65" height="65" />
