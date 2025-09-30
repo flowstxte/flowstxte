@@ -51,76 +51,18 @@ computer science student
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" alt="Glitch Line"/>
 </div>
 
-<!-- TECH STACK -->
 <h2 align="center">＜/＞ TECH STACK</h2>
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="100" height="100">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br><strong>Python</strong>
-    </td>
-    <td align="center" width="100" height="100">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="100" height="100">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br><strong>React</strong>
-    </td>
-    <td align="center" width="100" height="100">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br><strong>MySQL</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100" height="100">
-      <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="65" height="65" />
-      <br><strong>Flutter</strong>
-    </td>
-    <td align="center" width="100" height="100">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" />
-      <br><strong>Next.js</strong>
-    </td>
-    <td align="center" width="100" height="100">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="65" height="65" />
-      <br><strong>CSS3</strong>
-    </td>
-    <td align="center" width="100" height="100">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65" />
-      <br><strong>HTML5</strong>
-    </td>
-  </tr>
-</table>
+  <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,nextjs" 
+       alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,flutter,mysql,figma" 
+       alt="Tech Stack" />
 </div>
 
-<!-- TOOLS -->
 <h2 align="center">// TOOLS</h2>
-
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="100" height="100">
-<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="65" height="65" />
-<br><strong>VS Code</strong>
-</td>
-<td align="center" width="100" height="100">
-<img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
-<br><strong>Git</strong>
-</td>
-<td align="center" width="100" height="100">
-<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="65" height="65" />
-<br><strong>GitHub</strong>
-</td>
-<td align="center" width="100" height="100">
-<img src="https://skillicons.dev/icons?i=replit" alt="Replit" width="65" height="65" />
-<br><strong>Replit</strong>
-</td>
-</tr>
-</table>
-
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel" 
+       alt="Tools" />
 </div>
 
 <!-- SEPARATOR -->
