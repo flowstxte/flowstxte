@@ -53,9 +53,7 @@ computer science student
 
 <h2 align="center">＜/＞ TECH STACK</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,nextjs" 
-       alt="Tech Stack" />
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,flutter,mysql,figma" 
+  <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,nextjs,html,css,tailwind,flutter,mysql,figma" 
        alt="Tech Stack" />
 </div>
 
