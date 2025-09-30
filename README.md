@@ -53,10 +53,14 @@ computer science student
 
 <h2 align="center">＜/＞ TECH STACK</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,nextjs" 
-       alt="Tech Stack" />
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,flutter,mysql,figma" 
-       alt="Tech Stack" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=nextjs,html,css,tailwind,flutter,figma" 
+       alt="Additional Tech Stack" />
 </div>
 
 <h2 align="center">// TOOLS</h2>
