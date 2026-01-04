@@ -98,9 +98,9 @@ computer science student
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=flowstxte&show_icons=true&theme=radical&border_color=F25623&bg_color=0D1117&title_color=F25623&icon_color=F25623&text_color=DEDEDE&ring_color=F25623&fire=F25623&sideNums=F25623&hide_border=true&rank_icon=percentile" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=flowstxte&show_icons=true&theme=radical&border_color=F25623&bg_color=0D1117&title_color=F25623&icon_color=F25623&text_color=DEDEDE&rank_icon=percentile" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flowstxte&layout=compact&theme=radical&border_color=F25623&bg_color=0D1117&title_color=F25623&text_color=DEDEDE&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=flowstxte&layout=compact&theme=radical&border_color=F25623&bg_color=0D1117&title_color=F25623&text_color=DEDEDE" alt="Top Languages" />
 
 </div>
 
