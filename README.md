@@ -53,18 +53,12 @@ computer science student
 
 <h2 align="center">＜/＞ TECH STACK</h2>
 
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" /> &nbsp;
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50" height="50" /> &nbsp;
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" /> &nbsp;
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" /> &nbsp;
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" /> &nbsp;
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-</p>
-
-<p align="center">
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50" height="50" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+  <br/>
+  <br/>
   <img src="https://skillicons.dev/icons?i=nextjs,tailwind,css,html,flutter,figma" alt="Additional Tech Stack" />
-</p>
+</div>
 
 <h2 align="center">// TOOLS</h2>
 <div align="center">
