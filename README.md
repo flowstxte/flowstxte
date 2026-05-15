@@ -16,6 +16,9 @@ ullas sarker tirtha
 **> status**  
 computer science student
 
+**> objective**  
+full-stack development
+
 **> location**  
 /dhaka/bangladesh
 
@@ -28,27 +31,6 @@ computer science student
 <!-- ORANGE SEPARATOR -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=F25623&height=10&section=header&animation=blinking" width="100%" alt="Orange Glitch Line"/>
-</div>
-
-<!-- ABOUT ME SECTION -->
-<h2 align="center">// SYSTEM INFO</h2>
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li><b>Currently Mastering:</b> Python, JavaScript</li>
-        <li><b>System Status:</b> Online and Learning</li>
-        <li><b>Next Objective:</b> Full-Stack Development</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-</div>
-
-<!-- GLITCH SEPARATOR -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" alt="Glitch Line"/>
 </div>
 
 <h2 align="center">＜/＞ TECH STACK</h2>
@@ -74,35 +56,10 @@ computer science student
 <!-- GITHUB STATS -->
 <h2 align="center">『 STATISTICS 』</h2>
 
-</div>
-
 <div align="center">
-
-<table>
-<tr>
-<td>
-
-**ACCESSING MAINFRAME...**  
-[██████████████████████] 100%  
-
-**> Retrieving data from GitHub servers...**  
-**> Decrypting repository information...**  
-**> Analyzing code contribution patterns...**  
-**> STATUS: CONNECTION ESTABLISHED**  
-
-</td>
-</tr>
-</table>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=flowstxte&show_icons=true&theme=radical&border_color=F25623&bg_color=0D1117&title_color=F25623&icon_color=F25623&text_color=DEDEDE&rank_icon=percentile" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=flowstxte&layout=compact&theme=radical&border_color=F25623&bg_color=0D1117&title_color=F25623&text_color=DEDEDE" alt="Top Languages" />
-
-</div>
-
-<!-- CONTRIBUTION GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flowstxte&bg_color=0d1117&color=f25623&line=f25623&point=f25623&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 <!-- CODING SNAKE -->
@@ -123,9 +80,7 @@ computer science student
 <!-- SYSTEM FOOTER -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=flowstxte&label=//SCANS&color=F25623&style=flat&labelColor=171717" alt="Profile Views"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" alt="Matrix Footer"/>
+<img src="https://komarev.com/ghpvc/?username=flowstxte&label=VIEWS&color=F25623&style=flat&labelColor=171717" alt="Profile Views"/>
 
 </div>
 
