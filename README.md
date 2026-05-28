@@ -35,10 +35,10 @@ full-stack development
 
 <h2 align="center">＜/＞ TECH STACK</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,js,ts,react,mysql" 
+  <img src="https://skillicons.dev/icons?i=py,django,js,ts,react,mysql,postgresql" 
        alt="Tech Stack" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,css,html,flutter,figma" 
+  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,tailwind,css,html,flutter,figma" 
        alt="Additional Tech Stack" />
 </div>
 
@@ -58,7 +58,9 @@ full-stack development
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=flowstxte&show_icons=true&theme=radical&border_color=F25623&bg_color=0D1117&title_color=F25623&icon_color=F25623&text_color=DEDEDE&rank_icon=percentile" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=flowstxte&show_icons=true&theme=radical&border_color=F25623&bg_color=0D1117&title_color=F25623&icon_color=F25623&text_color=DEDEDE&rank_icon=percentile" alt="GitHub Stats" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flowstxte&bg_color=0D1117&color=DEDEDE&line=F25623&point=FFFFFF&area_color=F25623&area=true&hide_border=true&title_color=F25623" alt="GitHub Activity Graph" width="100%" />
 
 </div>
 
@@ -66,8 +68,6 @@ full-stack development
 <div align="center">
   <img src="https://raw.githubusercontent.com/flowstxte/flowstxte/output/github-snake-dark.svg" alt="Snake Animation" width="100%"/>
 </div>
-
-
 
 <!-- CONNECT WITH ME -->
 <div align="center">
