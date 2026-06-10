@@ -69,23 +69,21 @@ full-stack development
 <!-- CONNECT WITH ME -->
 <h2 align="center">// CONNECT WITH ME</h2>
 
-<div align="center">
+<p align="center">
   <a href="https://linkedin.com/in/ullas-sarker-tirtha">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="45" style="filter: invert(53%) sepia(79%) saturate(2481%) hue-rotate(338deg) brightness(97%) contrast(101%);" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:iitztirtha@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="45" style="filter: invert(53%) sepia(79%) saturate(2481%) hue-rotate(338deg) brightness(97%) contrast(101%);" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/ullxs.sxrker.tirthx">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="45" style="filter: invert(53%) sepia(79%) saturate(2481%) hue-rotate(338deg) brightness(97%) contrast(101%);" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/flowstxte_">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="45" style="filter: invert(53%) sepia(79%) saturate(2481%) hue-rotate(338deg) brightness(97%) contrast(101%);" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
-</div>
+  
+</p>
 
 <!-- SEPARATOR -->
 <div align="center">
