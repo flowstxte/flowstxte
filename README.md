@@ -67,35 +67,29 @@ full-stack development
 </div>
 
 <!-- CONNECT WITH ME -->
+<h2 align="center">// CONNECT WITH ME</h2>
+
 <div align="center">
+  <a href="https://linkedin.com/in/ullas-sarker-tirtha">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="45" style="filter: invert(53%) sepia(79%) saturate(2481%) hue-rotate(338deg) brightness(97%) contrast(101%);" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:iitztirtha@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="45" style="filter: invert(53%) sepia(79%) saturate(2481%) hue-rotate(338deg) brightness(97%) contrast(101%);" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/ullxs.sxrker.tirthx">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="45" style="filter: invert(53%) sepia(79%) saturate(2481%) hue-rotate(338deg) brightness(97%) contrast(101%);" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/flowstxte_">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="45" style="filter: invert(53%) sepia(79%) saturate(2481%) hue-rotate(338deg) brightness(97%) contrast(101%);" />
+  </a>
+</div>
 
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://linkedin.com/in/ullas-sarker-tirtha">
-          <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-F25623?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=171717" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:iitztirtha@gmail.com">
-          <img src="https://img.shields.io/badge/EMAIL-CONTACT-F25623?style=for-the-badge&logo=gmail&logoColor=white&labelColor=171717" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://www.facebook.com/ullxs.sxrker.tirthx">
-          <img src="https://img.shields.io/badge/FACEBOOK-CONNECT-F25623?style=for-the-badge&logo=facebook&logoColor=white&labelColor=171717" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.instagram.com/flowstxte_">
-          <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-F25623?style=for-the-badge&logo=instagram&logoColor=white&labelColor=171717" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
+<!-- SEPARATOR -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" alt="Matrix Line"/>
 </div>
 
 <!-- SYSTEM FOOTER -->
