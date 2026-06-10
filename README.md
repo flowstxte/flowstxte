@@ -57,9 +57,6 @@ full-stack development
 <h2 align="center">『 STATISTICS 』</h2>
 
 <div align="center">
-
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=flowstxte&show_icons=true&theme=radical&border_color=F25623&bg_color=0D1117&title_color=F25623&icon_color=F25623&text_color=DEDEDE&rank_icon=percentile" alt="GitHub Stats" />
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=flowstxte&bg_color=0D1117&color=DEDEDE&line=F25623&point=FFFFFF&area_color=F25623&area=true&hide_border=true&title_color=F25623" alt="GitHub Activity Graph" width="100%" />
 
 </div>
@@ -71,10 +68,34 @@ full-stack development
 
 <!-- CONNECT WITH ME -->
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-F25623?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=171717&border=F25623)](https://linkedin.com/in/ullas-sarker-tirtha)
-  [![Email](https://img.shields.io/badge/EMAIL-CONTACT-F25623?style=for-the-badge&logo=gmail&logoColor=white&labelColor=171717)](mailto:iitztirtha@gmail.com)
-  
+
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://linkedin.com/in/ullas-sarker-tirtha">
+          <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-F25623?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=171717" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:iitztirtha@gmail.com">
+          <img src="https://img.shields.io/badge/EMAIL-CONTACT-F25623?style=for-the-badge&logo=gmail&logoColor=white&labelColor=171717" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.facebook.com/ullxs.sxrker.tirthx">
+          <img src="https://img.shields.io/badge/FACEBOOK-CONNECT-F25623?style=for-the-badge&logo=facebook&logoColor=white&labelColor=171717" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.instagram.com/flowstxte_">
+          <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-F25623?style=for-the-badge&logo=instagram&logoColor=white&labelColor=171717" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 <!-- SYSTEM FOOTER -->
