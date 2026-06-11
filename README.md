@@ -1,7 +1,8 @@
 ![MasterHead](https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/flowstxte.gif)
 
+<!-- TYPING ANIMATION -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=EXPLORING+NEW+TECHNOLOGIES;;DIGITAL%20ARCHITECT;ERROR%20404:%20SLEEP%20NOT%20FOUND&font=Orbitron&center=true&width=600&height=50&color=F25623&vCenter=true&size=20&pause=1000" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=FULL-STACK+DEVELOPER;UI%2FUX+ENGINEER;DIGITAL+ARCHITECT;ERROR+404%3A+SLEEP+NOT+FOUND&font=Orbitron&center=true&width=600&height=50&color=F25623&vCenter=true&size=20&pause=1000" alt="Typing Animation"/>
 </div>
 
 <div align="center">
@@ -19,6 +20,9 @@ computer science student
 **> objective**  
 full-stack development
 
+**> currently mastering**  
+react, next.js, and ai integrations
+
 **> location**  
 /dhaka/bangladesh
 
@@ -28,24 +32,24 @@ full-stack development
 
 </div>
 
-<!-- ORANGE SEPARATOR -->
+<!-- SEPARATOR -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F25623&height=10&section=header&animation=blinking" width="100%" alt="Orange Glitch Line"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F25623&height=8&section=header" width="100%"/>
 </div>
 
+<!-- TECH STACK -->
 <h2 align="center">＜/＞ TECH STACK</h2>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,js,ts,react,mysql,postgresql" 
-       alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,django,js,ts,react,mysql,postgresql&theme=dark" alt="Tech Stack"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,tailwind,css,html,flutter,figma" 
-       alt="Additional Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,tailwind,css,html,flutter,figma&theme=dark" alt="Additional Tech Stack"/>
 </div>
 
+<!-- TOOLS -->
 <h2 align="center">// TOOLS</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel" 
-       alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel&theme=dark" alt="Tools"/>
 </div>
 
 <!-- SEPARATOR -->
@@ -53,51 +57,78 @@ full-stack development
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" alt="Matrix Line"/>
 </div>
 
-<!-- GITHUB STATS -->
+<!-- PROJECTS SHOWCASE -->
+<h2 align="center">『 LIVE PROJECTS 』</h2>
+
+<div align="center">
+
+| Project                                           | Description                                       | Stack                                     |
+| ------------------------------------------------- | ------------------------------------------------- | ----------------------------------------- |
+| [**Quoted**](https://quoted-new.vercel.app)       | Social quote platform with auth & image uploads   | Node.js · Supabase · JWT · Cloudinary     |
+| [**PrototypeX**](https://prototypex-i.vercel.app) | Full-stack e-commerce store with order management | Node.js · Supabase · Resend · Vercel      |
+| [**VisX**](https://vis-x.vercel.app)              | Real-time 3D audio visualizer with video export   | Three.js · Web Audio API · WebGL          |
+| [**anim.a**](https://anima-free.vercel.app)       | Copy-paste CSS animation library for developers   | Vanilla JS · CSS3 · Three.js              |
+| [**Conceptra**](https://conceptra-one.vercel.app) | Immersive speculative design studio showcase      | Vanilla JS · CSS Grid · Google Sheets API |
+| [**flo.art**](https://floart.vercel.app)          | Artist portfolio with gallery & dark mode         | Vanilla JS · CSS Animations · Apps Script |
+
+</div>
+
+<br/>
+
+<!-- SEPARATOR -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2"/>
+</div>
+
+<!-- STATS -->
 <h2 align="center">『 STATISTICS 』</h2>
 
+<!-- STREAK -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flowstxte&bg_color=0D1117&color=DEDEDE&line=F25623&point=FFFFFF&area_color=F25623&area=true&hide_border=true&title_color=F25623" alt="GitHub Activity Graph" width="100%" />
-
+  <img src="https://streak-stats.demolab.com?user=flowstxte&theme=default&background=0A0A0A&border=FF4500&ring=FF6A00&fire=FF8C00&currStreakNum=FF6A00&sideNums=FF6A00&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=777777" height="180" />
 </div>
 
-<!-- CODING SNAKE -->
+<!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/flowstxte/flowstxte/output/github-snake-dark.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flowstxte&bg_color=000000&color=FFFFFF&line=FF4500&point=FF8C00&area_color=FF4500&area=true&hide_border=true&hide_title=true" width="100%" />
 </div>
 
-<!-- CONNECT WITH ME -->
-<h2 align="center">// CONNECT WITH ME</h2>
+<!-- SNAKE -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/flowstxte/flowstxte/output/github-snake-dark.svg" width="100%" alt="Snake Animation"/>
+</div>
+
+<!-- SEPARATOR -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2"/>
+</div>
+
+<!-- CONNECT -->
+<h2 align="center">// CONNECT</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/ullas-sarker-tirtha">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:iitztirtha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/ullxs.sxrker.tirthx">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
-  </a>
+  &nbsp;
   <a href="https://www.instagram.com/flowstxte_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  
+  &nbsp;
+  <a href="https://www.facebook.com/ullxs.sxrker.tirthx">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 </p>
 
-<!-- SEPARATOR -->
+<!-- PROFILE VIEWS + FOOTER -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" alt="Matrix Line"/>
+  <img src="https://komarev.com/ghpvc/?username=flowstxte&label=PROFILE+VIEWS&color=F25623&style=for-the-badge&labelColor=171717" alt="Profile Views"/>
 </div>
 
-<!-- SYSTEM FOOTER -->
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=flowstxte&label=VIEWS&color=F25623&style=flat&labelColor=171717" alt="Profile Views"/>
-
-</div>
-
-<!-- EFFECT -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F25623&height=120&section=footer&animation=fadeIn&fontAlignY=65&fontSize=30&fontColor=DEDEDE&desc=『%20SYSTEM%20TERMINATED%20』&descAlignY=85&descAlign=50" width="100%"/>
 </div>
