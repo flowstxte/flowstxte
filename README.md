@@ -60,17 +60,32 @@ react, next.js, and ai integrations
 <!-- PROJECTS SHOWCASE -->
 <h2 align="center">『 LIVE PROJECTS 』</h2>
 
+<br/>
+
 <div align="center">
+  <a href="https://vis-x.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/projects/visx.png" width="49%" alt="VISX"/></a>
+  <a href="https://quoted-new.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/projects/quoted.png" width="49%" alt="QUOTED"/></a>
+</div>
 
-| Project                                           | Description                                       | Stack                                     |
-| ------------------------------------------------- | ------------------------------------------------- | ----------------------------------------- |
-| [**Quoted**](https://quoted-new.vercel.app)       | Social quote platform with auth & image uploads   | Node.js · Supabase · JWT · Cloudinary     |
-| [**PrototypeX**](https://prototypex-i.vercel.app) | Full-stack e-commerce store with order management | Node.js · Supabase · Resend · Vercel      |
-| [**VisX**](https://vis-x.vercel.app)              | Real-time 3D audio visualizer with video export   | Three.js · Web Audio API · WebGL          |
-| [**anim.a**](https://anima-free.vercel.app)       | Copy-paste CSS animation library for developers   | Vanilla JS · CSS3 · Three.js              |
-| [**Conceptra**](https://conceptra-one.vercel.app) | Immersive speculative design studio showcase      | Vanilla JS · CSS Grid · Google Sheets API |
-| [**flo.art**](https://floart.vercel.app)          | Artist portfolio with gallery & dark mode         | Vanilla JS · CSS Animations · Apps Script |
+<br/>
 
+<div align="center">
+  <a href="https://anima-free.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/projects/anima.png" width="49%" alt="ANIM.A"/></a>
+  <a href="https://floart.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/projects/floart.png" width="49%" alt="FLO.ART"/></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://conceptra-one.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/projects/conceptra.png" width="49%" alt="CONCEPTRA"/></a>
+  <a href="https://prototypex-i.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/projects/prototypex.png" width="49%" alt="PROTOTYPEX"/></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://nupurahsan.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/projects/nupur.png" width="49%" alt="NUPUR AHSAN"/></a>
+  <a href="https://designskills-i.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/projects/designskills.png" width="49%" alt="DESIGNSKILLS"/></a>
 </div>
 
 <br/>
