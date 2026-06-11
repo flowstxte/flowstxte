@@ -59,74 +59,13 @@ react, next.js, and ai integrations
 
 <!-- PROJECTS SHOWCASE -->
 <h2 align="center">『 LIVE PROJECTS 』</h2>
-<br/>
 
 <div align="center">
 
-<table style="border-collapse:separate; border-spacing:2px;">
-<tr>
-
-<td align="center" width="145" style="border:1px solid #30363d; border-radius:12px;">
-<a href="https://vis-x.vercel.app" style="text-decoration:none; color:#c9d1d9;">
-<img src="https://vis-x.vercel.app/favicon.png" width="50"/><br/>
-<b>VISX</b>
-</a>
-</td>
-
-<td align="center" width="145" style="border:1px solid #30363d; border-radius:12px;">
-<a href="https://quoted-new.vercel.app" style="text-decoration:none; color:#c9d1d9;">
-<img src="https://quoted-new.vercel.app/assets/favicon.png" width="50"/><br/>
-<b>QUOTED</b>
-</a>
-</td>
-
-<td align="center" width="145" style="border:1px solid #30363d; border-radius:12px;">
-<a href="https://anima-free.vercel.app" style="text-decoration:none; color:#c9d1d9;">
-<img src="https://anima-free.vercel.app/favicon.png" width="50"/><br/>
-<b>ANIM.A</b>
-</a>
-</td>
-
-<td align="center" width="145" style="border:1px solid #30363d; border-radius:12px;">
-<a href="https://floart.vercel.app" style="text-decoration:none; color:#c9d1d9;">
-<img src="https://floart.vercel.app/assets/site.png" width="50"/><br/>
-<b>FLO.ART</b>
-</a>
-</td>
-
-</tr>
-<tr>
-
-<td align="center" width="145" style="border:1px solid #30363d; border-radius:12px;">
-<a href="https://conceptra-one.vercel.app" style="text-decoration:none; color:#c9d1d9;">
-<img src="https://conceptra-one.vercel.app/favicon.png" width="50"/><br/>
-<b>CONCEPTRA</b>
-</a>
-</td>
-
-<td align="center" width="145" style="border:1px solid #30363d; border-radius:12px;">
-<a href="https://prototypex-i.vercel.app" style="text-decoration:none; color:#c9d1d9;">
-<img src="https://prototypex-i.vercel.app/assets/favicon.png" width="50"/><br/>
-<b>PROTOTYPEX</b>
-</a>
-</td>
-
-<td align="center" width="145" style="border:1px solid #30363d; border-radius:12px;">
-<a href="https://nupurahsan.vercel.app" style="text-decoration:none; color:#c9d1d9;">
-<img src="https://nupurahsan.vercel.app/favicon.png" width="50"/><br/>
-<b>NUPURAHSAN</b>
-</a>
-</td>
-
-<td align="center" width="145" style="border:1px solid #30363d; border-radius:12px;">
-<a href="https://designskills-i.vercel.app" style="text-decoration:none; color:#c9d1d9;">
-<img src="https://designskills-i.vercel.app/favicon.png" width="50"/><br/>
-<b>DESIGNSKILLS</b>
-</a>
-</td>
-
-</tr>
-</table>
+|                                                                                                                     |                                                                                                                          |                                                                                                               |                                                                                                                       |
+| :-----------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
+|         <a href="https://vis-x.vercel.app"><img src="https://vis-x.vercel.app/favicon.png" width="60"/></a>         |   <a href="https://quoted-new.vercel.app"><img src="https://quoted-new.vercel.app/assets/favicon.png" width="60"/></a>   | <a href="https://anima-free.vercel.app"><img src="https://anima-free.vercel.app/favicon.png" width="60"/></a> |       <a href="https://floart.vercel.app"><img src="https://floart.vercel.app/assets/site.png" width="60"/></a>       |
+| <a href="https://conceptra-one.vercel.app"><img src="https://conceptra-one.vercel.app/favicon.png" width="60"/></a> | <a href="https://prototypex-i.vercel.app"><img src="https://prototypex-i.vercel.app/assets/favicon.png" width="60"/></a> | <a href="https://nupurahsan.vercel.app"><img src="https://nupurahsan.vercel.app/favicon.png" width="60"/></a> | <a href="https://designskills-i.vercel.app"><img src="https://designskills-i.vercel.app/favicon.png" width="60"/></a> |
 
 </div>
 
