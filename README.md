@@ -27,11 +27,6 @@ react, next.js, and ai integrations
 /dhaka/bangladesh
 
 </td>
-<td align="center">
-
-[<img src="https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/resume/CV-RESUME.png" width="200"/>](https://github.com/flowstxte/flowstxte/blob/main/resume/CV-RESUME.pdf)
-
-</td>
 </tr>
 </table>
 
@@ -125,6 +120,7 @@ react, next.js, and ai integrations
 
 <!-- PROFILE VIEWS + FOOTER -->
 <div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=flowstxte&label=PROFILE+VIEWS&color=F25623&style=flat&labelColor=171717" alt="Profile Views"/>
 </div>
 
