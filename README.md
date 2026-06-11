@@ -59,33 +59,75 @@ react, next.js, and ai integrations
 
 <!-- PROJECTS SHOWCASE -->
 <h2 align="center">『 LIVE PROJECTS 』</h2>
-
 <br/>
 
 <div align="center">
-  <a href="https://vis-x.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/projects/visx.png" width="49%" alt="VISX"/></a>
-  <a href="https://quoted-new.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/projects/quoted.png" width="49%" alt="QUOTED"/></a>
-</div>
 
-<br/>
+<table style="border-collapse:separate; border-spacing:2px;">
+<tr>
 
-<div align="center">
-  <a href="https://anima-free.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/projects/anima.png" width="49%" alt="ANIM.A"/></a>
-  <a href="https://floart.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/projects/floart.png" width="49%" alt="FLO.ART"/></a>
-</div>
+<td align="center" width="145" style="border:1px solid #30363d; border-radius:12px;">
+<a href="https://vis-x.vercel.app" style="text-decoration:none; color:#c9d1d9;">
+<img src="https://vis-x.vercel.app/favicon.png" width="50"/><br/>
+<b>VISX</b>
+</a>
+</td>
 
-<br/>
+<td align="center" width="145" style="border:1px solid #30363d; border-radius:12px;">
+<a href="https://quoted-new.vercel.app" style="text-decoration:none; color:#c9d1d9;">
+<img src="https://quoted-new.vercel.app/assets/favicon.png" width="50"/><br/>
+<b>QUOTED</b>
+</a>
+</td>
 
-<div align="center">
-  <a href="https://conceptra-one.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/projects/conceptra.png" width="49%" alt="CONCEPTRA"/></a>
-  <a href="https://prototypex-i.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/projects/prototypex.png" width="49%" alt="PROTOTYPEX"/></a>
-</div>
+<td align="center" width="145" style="border:1px solid #30363d; border-radius:12px;">
+<a href="https://anima-free.vercel.app" style="text-decoration:none; color:#c9d1d9;">
+<img src="https://anima-free.vercel.app/favicon.png" width="50"/><br/>
+<b>ANIM.A</b>
+</a>
+</td>
 
-<br/>
+<td align="center" width="145" style="border:1px solid #30363d; border-radius:12px;">
+<a href="https://floart.vercel.app" style="text-decoration:none; color:#c9d1d9;">
+<img src="https://floart.vercel.app/assets/site.png" width="50"/><br/>
+<b>FLO.ART</b>
+</a>
+</td>
 
-<div align="center">
-  <a href="https://nupurahsan.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/projects/nupur.png" width="49%" alt="NUPUR AHSAN"/></a>
-  <a href="https://designskills-i.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/projects/designskills.png" width="49%" alt="DESIGNSKILLS"/></a>
+</tr>
+<tr>
+
+<td align="center" width="145" style="border:1px solid #30363d; border-radius:12px;">
+<a href="https://conceptra-one.vercel.app" style="text-decoration:none; color:#c9d1d9;">
+<img src="https://conceptra-one.vercel.app/favicon.png" width="50"/><br/>
+<b>CONCEPTRA</b>
+</a>
+</td>
+
+<td align="center" width="145" style="border:1px solid #30363d; border-radius:12px;">
+<a href="https://prototypex-i.vercel.app" style="text-decoration:none; color:#c9d1d9;">
+<img src="https://prototypex-i.vercel.app/assets/favicon.png" width="50"/><br/>
+<b>PROTOTYPEX</b>
+</a>
+</td>
+
+<td align="center" width="145" style="border:1px solid #30363d; border-radius:12px;">
+<a href="https://nupurahsan.vercel.app" style="text-decoration:none; color:#c9d1d9;">
+<img src="https://nupurahsan.vercel.app/favicon.png" width="50"/><br/>
+<b>NUPURAHSAN</b>
+</a>
+</td>
+
+<td align="center" width="145" style="border:1px solid #30363d; border-radius:12px;">
+<a href="https://designskills-i.vercel.app" style="text-decoration:none; color:#c9d1d9;">
+<img src="https://designskills-i.vercel.app/favicon.png" width="50"/><br/>
+<b>DESIGNSKILLS</b>
+</a>
+</td>
+
+</tr>
+</table>
+
 </div>
 
 <br/>
