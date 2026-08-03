@@ -81,7 +81,7 @@ react, next.js, and ai integrations
 
 <!-- STREAK -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=flowstxte&theme=default&background=0A0A0A&border=FF4500&ring=FF6A00&fire=FF8C00&currStreakNum=FF6A00&sideNums=FF6A00&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=777777" height="180" />
+  <img src="https://streak-stats.vercel.app?user=flowstxte&theme=default&background=0A0A0A&border=FF4500&ring=FF6A00&fire=FF8C00&currStreakNum=FF6A00&sideNums=FF6A00&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=777777" height="180" />
 </div>
 
 <!-- ACTIVITY GRAPH -->
