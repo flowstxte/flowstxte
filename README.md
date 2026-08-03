@@ -90,9 +90,9 @@ react, next.js, and ai integrations
 </div>
 
 <!-- SNAKE -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/flowstxte/flowstxte/output/github-snake-dark.svg" width="100%" alt="Snake Animation"/>
-</div>
+</div> -->
 
 <!-- SEPARATOR -->
 <div align="center">
