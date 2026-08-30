@@ -1,0 +1,36 @@
+name: Generate Design Core
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: build-and-commit-design-core
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/python-versions@v3
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install Pillow requests
+          # (Add any other dependencies your specific generative art library requires)
+
+      - name: Run generative script
+        run: python generate_core.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          # Commits only if the generated image has changed
+          git diff-index --quiet HEAD || git commit -m "Generated new core visualization"
+          git push
