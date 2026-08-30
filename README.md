@@ -84,9 +84,9 @@ react, next.js, and ai integrations
   <img src="https://streak-stats.vercel.app?user=flowstxte&theme=default&background=0A0A0A&border=FF4500&ring=FF6A00&fire=FF8C00&currStreakNum=FF6A00&sideNums=FF6A00&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=777777" height="180" />
 </div>
 
-<!-- ACTIVITY GRAPH -->
+<!-- Digital Core -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flowstxte&bg_color=000000&color=FFFFFF&line=FF4500&point=FF8C00&area_color=FF4500&area=true&hide_border=true&hide_title=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/digital_core.gif" width="100%" alt="3D Contribution Graph" />
 </div>
 
 <!-- SNAKE -->
