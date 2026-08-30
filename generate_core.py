@@ -1,78 +1,77 @@
-import os
-import random
+import math
 from PIL import Image, ImageDraw
 
-# Color palette from your README
-COLOR_BG = (10, 10, 10, 255) # Matte black
-COLOR_GLOW = (242, 86, 35, 255) # F25623
-COLOR_ALT = (255, 69, 0, 255) # FF4500
-COLOR_TEXT = (255, 255, 255, 255) # White
+# Your specific palette
+COLOR_BG = (10, 10, 10) # Dark background
+COLOR_GLOW = (242, 86, 35) # Your F25623 primary
+COLOR_ALT = (255, 69, 0) # Your FF4500 secondary
+COLOR_ACCENT = (255, 255, 255) # White data nodes
 
-def generate_core_pattern(width=1600, height=800):
-    """
-    Generates a unique, procedural isometric design
-    to represent a conceptual 'Digital Core'.
-    """
-    img = Image.new('RGBA', (width, height), COLOR_BG)
-    draw = ImageDraw.Draw(img)
+def draw_hexagon(draw, center, radius, rotation, color, width):
+    cx, cy = center
+    points = []
+    for i in range(6):
+        angle = math.radians(rotation + i * 60)
+        x = cx + radius * math.cos(angle)
+        y = cy + radius * math.sin(angle)
+        points.append((x, y))
+    points.append(points[0]) # close the loop
+    draw.line(points, fill=color, width=width)
 
-    # Simple grid base for complex, multi-layered feel
-    grid_size = 40
-    for x in range(0, width, grid_size):
-        for y in range(0, height, grid_size):
-            # Draw a subtle base grid pattern
-            draw.point((x, y), fill=(20, 20, 20, 255))
-
-    # Add complex, procedural structures
-    # (Here we just draw some random connected paths and blocks)
-    for _ in range(30):
-        # Pick a starting point
-        x1 = random.randrange(width // 4, 3 * width // 4, grid_size)
-        y1 = random.randrange(height // 4, 3 * height // 4, grid_size)
-
-        # Draw a complex, branching path
-        length = random.randint(5, 15)
-        for _ in range(length):
-            direction = random.choice(['x', 'y'])
-            change = random.choice([-grid_size, grid_size])
-            if direction == 'x':
-                x2, y2 = x1 + change, y1
-            else:
-                x2, y2 = x1, y1 + change
-            
-            # Constrain to reasonable canvas space
-            x2 = max(0, min(width, x2))
-            y2 = max(0, min(height, y2))
-
-            # Draw glowing line and 'nodes' (blocks)
-            line_color = random.choice([COLOR_GLOW, COLOR_ALT])
-            
-            # Simulate multi-layered structure
-            line_width = random.randint(3, 8)
-            draw.line((x1, y1, x2, y2), fill=line_color, width=line_width)
-            
-            # Procedural node structure
-            if random.random() < 0.2:
-                # Add white node accent
-                draw.rectangle((x2-10, y2-10, x2+10, y2+10), outline=COLOR_TEXT, width=2)
-            
-            # Continue the path
-            x1, y1 = x2, y2
-
-    # Add 'data particle' cluster
-    for _ in range(50):
-        px = random.randrange(0, width)
-        py = random.randrange(0, height)
-        size = random.randint(1, 3)
-        draw.ellipse((px, py, px+size, py+size), fill=COLOR_GLOW)
-
-    # Apply some depth effects
-    # (A full engine would render reflections and depth-of-field)
+def generate_animated_core():
+    width, height = 800, 400
+    frames = []
+    num_frames = 60 # 60 frames for a smooth 2-second loop
     
-    # Save the generated image
-    # Note: For animation, your script would generate and save frames, 
-    # then combine them into a final .gif or .mp4 file.
-    img.save('digital_core.png')
+    for f in range(num_frames):
+        # Using RGB for GIF compatibility
+        img = Image.new('RGB', (width, height), COLOR_BG)
+        draw = ImageDraw.Draw(img)
+        
+        center = (width // 2, height // 2)
+        time = f / num_frames # Percentage of the loop (0.0 to 1.0)
+        
+        # 1. Background grid with a moving scanline effect
+        scan_y = int(time * height)
+        for y in range(0, height, 40):
+            dist = abs(y - scan_y)
+            # Make the grid line glow slightly if the scanline is near it
+            if dist < 40 or abs(y - (scan_y - height)) < 40:
+                draw.line((0, y, width, y), fill=(30, 30, 30), width=1)
+            else:
+                draw.line((0, y, width, y), fill=(15, 15, 15), width=1)
+
+        # 2. Draw rotating architectural structures (Hexagons)
+        for i in range(6):
+            radius = 35 + i * 25
+            direction = 1 if i % 2 == 0 else -1
+            
+            # Continuous rotation
+            rotation = time * 360 * direction + (i * 20)
+            
+            # Pulsing line thickness using a sine wave
+            thickness = int(2 + math.sin(time * math.pi * 2 + i) * 1.5)
+            color = COLOR_GLOW if i % 2 == 0 else COLOR_ALT
+            
+            draw_hexagon(draw, center, radius, rotation, color, thickness)
+            
+            # 3. Add orbiting data nodes that move faster than the rings
+            node_angle = math.radians(rotation + (time * 360 * direction * 2))
+            nx = center[0] + radius * math.cos(node_angle)
+            ny = center[1] + radius * math.sin(node_angle)
+            draw.ellipse((nx-3, ny-3, nx+3, ny+3), fill=COLOR_ACCENT)
+            
+        frames.append(img)
+        
+    # Save the frames as a seamlessly looping GIF
+    frames[0].save(
+        'digital_core.gif',
+        save_all=True,
+        append_images=frames[1:],
+        optimize=True,
+        duration=33, # 33ms per frame = ~30fps
+        loop=0 # 0 means loop forever
+    )
 
 if __name__ == '__main__':
-    generate_core_pattern()
+    generate_animated_core()
