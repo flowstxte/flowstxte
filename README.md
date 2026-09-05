@@ -84,15 +84,10 @@ react, next.js, and ai integrations
   <img src="https://streak-stats.vercel.app?user=flowstxte&theme=default&background=0A0A0A&border=FF4500&ring=FF6A00&fire=FF8C00&currStreakNum=FF6A00&sideNums=FF6A00&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=777777" height="180" />
 </div>
 
-<!-- Digital Core -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/flowstxte/flowstxte/refs/heads/main/digital_core.gif" width="100%" alt="3D Contribution Graph" />
-</div>
-
 <!-- SNAKE -->
-<!-- <div align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/flowstxte/flowstxte/output/github-snake-dark.svg" width="100%" alt="Snake Animation"/>
-</div> -->
+</div>
 
 <!-- SEPARATOR -->
 <div align="center">
