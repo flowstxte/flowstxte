@@ -62,17 +62,10 @@ react, next.js, and ai integrations
 
 <div align="center">
 
-|                                                                                                                              |                                                                                                                  |
-| :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                 |                                                                                                              |
+| :-----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
 | <a href="https://runout-films.vercel.app"><img src="https://runout-films.vercel.app/assets/images/favicon.png" width="60"/></a> | <a href="https://glasse.vercel.app"><img src="https://glasse.vercel.app/assets/favicon.png" width="60"/></a> |
 
-</div>
-
-<br/>
-
-<!-- SEPARATOR -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2"/>
 </div>
 
 <!-- PROJECTS SHOWCASE -->
@@ -80,18 +73,11 @@ react, next.js, and ai integrations
 
 <div align="center">
 
-|                                                                                                                          |                                                                                                                          |                                                                                                               |                                                                                                                 |
-| :----------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
-| <a href="https://prototypex-i.vercel.app"><img src="https://prototypex-i.vercel.app/assets/favicon.png" width="60"/></a> |   <a href="https://quoted-new.vercel.app"><img src="https://quoted-new.vercel.app/assets/favicon.png" width="60"/></a>   | <a href="https://nupurahsan.vercel.app"><img src="https://nupurahsan.vercel.app/favicon.png" width="60"/></a> |   <a href="https://floart.vercel.app"><img src="https://floart.vercel.app/assets/site.png" width="60"/></a>   |
-| <a href="https://anima-free.vercel.app"><img src="https://anima-free.vercel.app/favicon.png" width="60"/></a>           | <a href="https://designskills-i.vercel.app"><img src="https://designskills-i.vercel.app/favicon.png" width="60"/></a> | <a href="https://conceptra-one.vercel.app"><img src="https://conceptra-one.vercel.app/favicon.png" width="60"/></a> | <a href="https://vis-x.vercel.app"><img src="https://vis-x.vercel.app/favicon.png" width="60"/></a>           |
+|                                                                                                                          |                                                                                                                       |                                                                                                                     |                                                                                                           |
+| :----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
+| <a href="https://prototypex-i.vercel.app"><img src="https://prototypex-i.vercel.app/assets/favicon.png" width="60"/></a> | <a href="https://quoted-new.vercel.app"><img src="https://quoted-new.vercel.app/assets/favicon.png" width="60"/></a>  |    <a href="https://nupurahsan.vercel.app"><img src="https://nupurahsan.vercel.app/favicon.png" width="60"/></a>    | <a href="https://floart.vercel.app"><img src="https://floart.vercel.app/assets/site.png" width="60"/></a> |
+|      <a href="https://anima-free.vercel.app"><img src="https://anima-free.vercel.app/favicon.png" width="60"/></a>       | <a href="https://designskills-i.vercel.app"><img src="https://designskills-i.vercel.app/favicon.png" width="60"/></a> | <a href="https://conceptra-one.vercel.app"><img src="https://conceptra-one.vercel.app/favicon.png" width="60"/></a> |    <a href="https://vis-x.vercel.app"><img src="https://vis-x.vercel.app/favicon.png" width="60"/></a>    |
 
-</div>
-
-<br/>
-
-<!-- SEPARATOR -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2"/>
 </div>
 
 <!-- OPEN SOURCE PROJECTS -->
@@ -99,13 +85,11 @@ react, next.js, and ai integrations
 
 <div align="center">
 
-|                                                                                                                                      |                                                                                                                              |                                                                                                                                                  |                                                                                                                        |
-| :----------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                                                   |                                                                                                                                                              |                                                                                                                                                                              |                                                                                                                                                      |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <a href="https://github.com/flowstxte/fitcheck"><img src="https://raw.githubusercontent.com/flowstxte/fitcheck/refs/heads/main/src/app/icon.png" width="60"/></a> | <a href="https://github.com/flowstxte/HueX"><img src="https://raw.githubusercontent.com/flowstxte/HueX/refs/heads/main/src/app/favicon.ico" width="60"/></a> | <a href="https://github.com/flowstxte/BankAppPrototype"><img src="https://raw.githubusercontent.com/flowstxte/BankAppPrototype/refs/heads/main/favicon.jpg" width="60"/></a> | <a href="https://github.com/flowstxte/VOID"><img src="https://raw.githubusercontent.com/flowstxte/VOID/refs/heads/main/favicon.png" width="60"/></a> |
 
 </div>
-
-<br/>
 
 <!-- SEPARATOR -->
 <div align="center">
