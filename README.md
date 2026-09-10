@@ -57,6 +57,24 @@ react, next.js, and ai integrations
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" alt="Matrix Line"/>
 </div>
 
+<!-- FEATURED PROJECTS -->
+<h2 align="center">『 FEATURED PROJECTS 』</h2>
+
+<div align="center">
+
+|                                                                                                                              |                                                                                                                  |
+| :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
+| <a href="https://runout-films.vercel.app"><img src="https://runout-films.vercel.app/assets/images/favicon.png" width="60"/></a> | <a href="https://glasse.vercel.app"><img src="https://glasse.vercel.app/assets/favicon.png" width="60"/></a> |
+
+</div>
+
+<br/>
+
+<!-- SEPARATOR -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2"/>
+</div>
+
 <!-- PROJECTS SHOWCASE -->
 <h2 align="center">『 LIVE PROJECTS 』</h2>
 
@@ -81,9 +99,9 @@ react, next.js, and ai integrations
 
 <div align="center">
 
-|                                                                                                                                      |                                                                                                                                                  |                                                                                                                              |                                                                                                                        |
-| :----------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://github.com/flowstxte/fitcheck"><img src="https://raw.githubusercontent.com/flowstxte/fitcheck/refs/heads/main/src/app/icon.png" width="60"/></a> | <a href="https://github.com/flowstxte/BankAppPrototype"><img src="https://raw.githubusercontent.com/flowstxte/BankAppPrototype/refs/heads/main/favicon.jpg" width="60"/></a> | <a href="https://github.com/flowstxte/HueX"><img src="https://raw.githubusercontent.com/flowstxte/HueX/refs/heads/main/src/app/favicon.ico" width="60"/></a> | <a href="https://github.com/flowstxte/VOID"><img src="https://raw.githubusercontent.com/flowstxte/VOID/refs/heads/main/favicon.png" width="60"/></a> |
+|                                                                                                                                      |                                                                                                                              |                                                                                                                                                  |                                                                                                                        |
+| :----------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://github.com/flowstxte/fitcheck"><img src="https://raw.githubusercontent.com/flowstxte/fitcheck/refs/heads/main/src/app/icon.png" width="60"/></a> | <a href="https://github.com/flowstxte/HueX"><img src="https://raw.githubusercontent.com/flowstxte/HueX/refs/heads/main/src/app/favicon.ico" width="60"/></a> | <a href="https://github.com/flowstxte/BankAppPrototype"><img src="https://raw.githubusercontent.com/flowstxte/BankAppPrototype/refs/heads/main/favicon.jpg" width="60"/></a> | <a href="https://github.com/flowstxte/VOID"><img src="https://raw.githubusercontent.com/flowstxte/VOID/refs/heads/main/favicon.png" width="60"/></a> |
 
 </div>
 
