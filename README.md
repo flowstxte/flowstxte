@@ -62,9 +62,9 @@ react, next.js, and ai integrations
 
 <div align="center">
 
-|                                                                                                                                 |                                                                                                              |
-| :-----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
-| <a href="https://runout-films.vercel.app"><img src="https://runout-films.vercel.app/assets/images/favicon.png" width="60"/></a> | <a href="https://glasse.vercel.app"><img src="https://glasse.vercel.app/assets/favicon.png" width="60"/></a> |
+|                                                                                                                                 |                                                                                                              |                                                                                                                                     |
+| :-----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://runout-films.vercel.app"><img src="https://runout-films.vercel.app/assets/images/favicon.png" width="60"/></a> | <a href="https://glasse.vercel.app"><img src="https://glasse.vercel.app/assets/favicon.png" width="60"/></a> | <a href="https://thebeautylounge.vercel.app"><img src="https://thebeautylounge.vercel.app/assets/favicon.png" width="60"/></a> |
 
 </div>
 
