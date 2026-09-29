@@ -48,12 +48,19 @@ react, next.js, and ai integrations
   <img src="https://skillicons.dev/icons?i=pytorch,opencv,postgres,supabase,mysql,django,flutter,dart&theme=dark" alt="AI, DB & Mobile"/>
 </div>
 
-<!-- APIs & CLOUD SERVICES -->
-<h2 align="center">// APIs & SERVICES</h2>
+<!-- APIS & CLOUD SERVICES -->
+<h2 align="center">// APIS & SERVICES</h2>
 
-<div align="center">
-  <img src="./icons/apis.svg" alt="APIs and Services"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/Groq%20Cloud-F55036?style=flat-square&logo=groq&logoColor=white" alt="Groq Cloud"/>
+  <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" alt="Resend"/>
+  <img src="https://img.shields.io/badge/Neon%20Postgres-00E599?style=flat-square&logo=postgresql&logoColor=black" alt="Neon Postgres"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Ultralytics-111111?style=flat-square&logo=yolo&logoColor=white" alt="Ultralytics"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets"/>
+</p>
 
 <!-- TOOLS & TECHNOLOGIES -->
 <h2 align="center">// TOOLS & TECHNOLOGIES</h2>
@@ -65,13 +72,16 @@ react, next.js, and ai integrations
 <!-- SEO & META -->
 <h2 align="center">// SEO & META</h2>
 
-<div align="center">
-  <img src="./icons/seo.svg" alt="SEO & Meta"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Graph-5B93D3?style=flat-square" alt="Open Graph"/>
+  <img src="https://img.shields.io/badge/JSON--LD-000000?style=flat-square&logo=json&logoColor=white" alt="JSON-LD"/>
+  <img src="https://img.shields.io/badge/Sitemap-F25623?style=flat-square&logo=xml&logoColor=white" alt="Sitemap"/>
+  <img src="https://img.shields.io/badge/Google%20Search%20Console-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white" alt="Google Search Console"/>
+</p>
 
 <!-- SEPARATOR -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" alt="Matrix Line"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2"/>
 </div>
 
 <!-- FEATURED PROJECTS -->
@@ -154,4 +164,3 @@ react, next.js, and ai integrations
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F25623&height=120&section=footer&animation=fadeIn&fontAlignY=65&fontSize=30&fontColor=DEDEDE&desc=『%20SYSTEM%20TERMINATED%20』&descAlignY=85&descAlign=50" width="100%"/>
 </div>
-
