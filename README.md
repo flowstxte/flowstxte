@@ -48,18 +48,25 @@ react, next.js, and ai integrations
   <img src="https://skillicons.dev/icons?i=pytorch,opencv,postgres,supabase,mysql,django,flutter,dart&theme=dark" alt="AI, DB & Mobile"/>
 </div>
 
-<!-- APIS & CLOUD SERVICES -->
-<h2 align="center">// APIS & SERVICES</h2>
+<!-- APIs & CLOUD SERVICES -->
+<h2 align="center">// APIs & SERVICES</h2>
 
 <div align="center">
   <img src="./icons/apis.svg" alt="APIs and Services"/>
 </div>
 
-<!-- TOOLS -->
-<h2 align="center">// TOOLS</h2>
+<!-- TOOLS & TECHNOLOGIES -->
+<h2 align="center">// TOOLS & TECHNOLOGIES</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,figma,postman,docker,npm&theme=dark" alt="Tools"/>
+</div>
+
+<!-- SEO & META -->
+<h2 align="center">// SEO & META</h2>
+
+<div align="center">
+  <img src="./icons/seo.svg" alt="SEO & Meta"/>
 </div>
 
 <!-- SEPARATOR -->
@@ -147,3 +154,4 @@ react, next.js, and ai integrations
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F25623&height=120&section=footer&animation=fadeIn&fontAlignY=65&fontSize=30&fontColor=DEDEDE&desc=『%20SYSTEM%20TERMINATED%20』&descAlignY=85&descAlign=50" width="100%"/>
 </div>
+
