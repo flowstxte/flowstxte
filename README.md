@@ -56,6 +56,7 @@ react, next.js, and ai integrations
   <img src="https://img.shields.io/badge/Groq%20Cloud-F55036?style=flat-square&logo=groq&logoColor=white" alt="Groq Cloud"/>
   <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" alt="Resend"/>
   <img src="https://img.shields.io/badge/Neon%20Postgres-00E599?style=flat-square&logo=postgresql&logoColor=black" alt="Neon Postgres"/>
+  <br/>
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
   <img src="https://img.shields.io/badge/Ultralytics-111111?style=flat-square&logo=yolo&logoColor=white" alt="Ultralytics"/>
