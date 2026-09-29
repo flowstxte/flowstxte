@@ -41,15 +41,25 @@ react, next.js, and ai integrations
 <h2 align="center">＜/＞ TECH STACK</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,js,ts,react,mysql,postgresql&theme=dark" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,c,cpp,bash&theme=dark" alt="Programming Languages"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,tailwind,css,html,flutter,figma&theme=dark" alt="Additional Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs,express,fastapi,flask&theme=dark" alt="Frameworks & Runtimes"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,postgres,supabase,mysql,django,flutter,dart&theme=dark" alt="AI, DB & Mobile"/>
+</div>
+
+<!-- APIS & CLOUD SERVICES -->
+<h2 align="center">// APIS & SERVICES</h2>
+
+<div align="center">
+  <img src="./icons/apis.svg" alt="APIs and Services"/>
 </div>
 
 <!-- TOOLS -->
 <h2 align="center">// TOOLS</h2>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,figma,postman,docker,npm&theme=dark" alt="Tools"/>
 </div>
 
 <!-- SEPARATOR -->
@@ -107,11 +117,6 @@ react, next.js, and ai integrations
 <!-- SNAKE -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/flowstxte/flowstxte/output/github-snake-dark.svg" width="100%" alt="Snake Animation"/>
-</div>
-
-<!-- SEPARATOR -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2"/>
 </div>
 
 <!-- CONNECT -->
