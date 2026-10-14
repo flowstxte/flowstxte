@@ -2,7 +2,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=FULL-STACK+DEVELOPER;UI%2FUX+ENGINEER;DIGITAL+ARCHITECT;ERROR+404%3A+SLEEP+NOT+FOUND&font=Orbitron&center=true&width=600&height=50&color=F25623&vCenter=true&size=20&pause=1000" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=FULL-STACK+DEVELOPER;UI%2FUX+ENGINEER;DIGITAL+ARCHITECT;ERROR+404%3A+SLEEP+NOT+FOUND&font=Orbitron&center=true&width=600&height=50&color=F25623&vCenter=true&size=20&pause=1000"/>
 </div>
 
 <div align="center">
@@ -41,11 +41,11 @@ react, next.js, and ai integrations
 <h2 align="center">＜/＞ TECH STACK</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,c,cpp,bash&theme=dark" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,c,cpp,bash&theme=dark"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs,express,fastapi,flask&theme=dark" alt="Frameworks & Runtimes"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs,express,fastapi,flask&theme=dark"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,postgres,supabase,mysql,django,flutter,dart&theme=dark" alt="AI, DB & Mobile"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,postgres,supabase,mysql,django,flutter,dart&theme=dark"/>
 </div>
 
 <!-- APIS & CLOUD SERVICES -->
@@ -67,7 +67,7 @@ react, next.js, and ai integrations
 <h2 align="center">// TOOLS & TECHNOLOGIES</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,figma,postman,docker,npm&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,figma,postman,docker,npm&theme=dark"/>
 </div>
 
 <!-- SEO & META -->
@@ -90,8 +90,8 @@ react, next.js, and ai integrations
 
 <div align="center">
 
-|                                                                                                              |                                                                                                                                 |                                                                                                                                     |                                                                                                                                |
-| :----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                              |                                                                                                                                 |                                                                                                                                |                                                                                                                              |
+| :----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
 | <a href="https://glasse.vercel.app"><img src="https://glasse.vercel.app/assets/favicon.png" width="60"/></a> | <a href="https://runout-films.vercel.app"><img src="https://runout-films.vercel.app/assets/images/favicon.png" width="60"/></a> | <a href="https://thebeautylounge.vercel.app"><img src="https://thebeautylounge.vercel.app/assets/favicon.png" width="60"/></a> | <a href="https://fl3xstudios.vercel.app"><img src="https://fl3xstudios.vercel.app/assets/icons/favicon.png" width="60"/></a> |
 
 </div>
@@ -113,9 +113,9 @@ react, next.js, and ai integrations
 
 <div align="center">
 
-|                                                                                                                                                                   |                                                                                                                                                              |                                                                                                                                                                              |                                                                                                                                                      |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://github.com/flowstxte/fitcheck"><img src="https://raw.githubusercontent.com/flowstxte/fitcheck/refs/heads/main/src/app/icon.png" width="60"/></a> | <a href="https://github.com/flowstxte/HueX"><img src="https://raw.githubusercontent.com/flowstxte/HueX/refs/heads/main/src/app/favicon.ico" width="60"/></a> | <a href="https://github.com/flowstxte/BankAppPrototype"><img src="https://raw.githubusercontent.com/flowstxte/BankAppPrototype/refs/heads/main/favicon.jpg" width="60"/></a> | <a href="https://github.com/flowstxte/VOID"><img src="https://raw.githubusercontent.com/flowstxte/VOID/refs/heads/main/favicon.png" width="60"/></a> |
+|                                                                                                                    |                                                                                                                   |                                                                                                                             |                                                                                                                      |
+| :----------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://github.com/flowstxte/fitcheck"><img src="https://fitcheck-x.vercel.app/icon.png" width="60"/></a> | <a href="https://github.com/flowstxte/HueX"><img src="https://huex-theta.vercel.app/favicon.ico" width="60"/></a> | <a href="https://github.com/flowstxte/BankAppPrototype"><img src="https://amarbank.vercel.app/favicon.jpg" width="60"/></a> | <a href="https://github.com/flowstxte/VOID"><img src="https://flowstxte.github.io/VOID/favicon.png" width="60"/></a> |
 
 </div>
 
@@ -134,33 +134,31 @@ react, next.js, and ai integrations
 
 <!-- SNAKE -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/flowstxte/flowstxte/output/github-snake-dark.svg" width="100%" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/flowstxte/flowstxte/output/github-snake-dark.svg" width="100%"/>
 </div>
 
 <!-- CONNECT -->
 <h2 align="center">// CONNECT</h2>
 
 <p align="center">
+  <a href="https://www.facebook.com/ullxs.sxrker.tirthx">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/flowstxte_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
   <a href="https://linkedin.com/in/ullas-sarker-tirtha">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:iitztirtha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/flowstxte_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/ullxs.sxrker.tirthx">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
-  </a>
-  
 </p>
 
 <!-- PROFILE VIEWS + FOOTER -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=flowstxte&label=PROFILE+VIEWS&color=F25623&style=flat&labelColor=171717" alt="Profile Views"/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=flowstxte&label=PROFILE+VIEWS&color=F25623&style=flat&labelColor=171717"/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F25623&height=120&section=footer&animation=fadeIn&fontAlignY=65&fontSize=30&fontColor=DEDEDE&desc=『%20SYSTEM%20TERMINATED%20』&descAlignY=85&descAlign=50" width="100%"/>
