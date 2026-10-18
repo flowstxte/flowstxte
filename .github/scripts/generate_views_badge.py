@@ -84,8 +84,8 @@ def generate_svg(count_str):
 
   <!-- Text Labels -->
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10" font-weight="600" letter-spacing="0.8">
-    <text x="31" y="15.5" fill="#AAAAAA">{label}</text>
-    <text x="{label_width + count_width / 2}" y="15.5" fill="#F25623" font-weight="700" text-anchor="middle">{count_str}</text>
+    <text x="31" y="15.5" fill="#ffffff">{label}</text>
+    <text x="{label_width + count_width / 2}" y="15.5" fill="#ffffff" font-weight="700" text-anchor="middle">{count_str}</text>
   </g>
 </svg>"""
 
