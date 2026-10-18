@@ -50,32 +50,34 @@ def generate_svg(count_str):
     label_width = 114
     total_width = label_width + count_width
     height = 24
+    split_pct = round((label_width / total_width) * 100, 1)
 
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{total_width}" height="{height}" viewBox="0 0 {total_width} {height}" role="img" aria-label="{label}: {count_str}">
   <title>{label}: {count_str}</title>
   <defs>
     <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="100%">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.08"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0.2"/>
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.18"/>
     </linearGradient>
     <linearGradient id="border-grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#2a2a2a"/>
-      <stop offset="65%" stop-color="#F25623" stop-opacity="0.5"/>
+      <stop offset="{split_pct}%" stop-color="#2a2a2a"/>
+      <stop offset="{split_pct}%" stop-color="#F25623"/>
       <stop offset="100%" stop-color="#F25623"/>
     </linearGradient>
   </defs>
 
-  <!-- Background Base -->
-  <rect width="{total_width}" height="{height}" rx="4" fill="#121212" stroke="url(#border-grad)" stroke-width="1"/>
+  <!-- Profile Views (Left) Background -->
+  <rect width="{label_width}" height="{height}" fill="#121212"/>
 
-  <!-- Count Pill Background -->
-  <path d="M{label_width} 1 h{count_width - 2} a3 3 0 0 1 3 3 v{height - 8} a3 3 0 0 1 -3 3 h-{count_width - 2} z" fill="#F25623" fill-opacity="0.12"/>
+  <!-- Count (Right) Background -->
+  <rect x="{label_width}" width="{count_width}" height="{height}" fill="#F25623"/>
 
   <!-- Gloss Overlay -->
-  <rect width="{total_width}" height="{height}" rx="4" fill="url(#gloss)"/>
+  <rect width="{total_width}" height="{height}" fill="url(#gloss)"/>
 
-  <!-- Divider -->
-  <line x1="{label_width}" y1="4" x2="{label_width}" y2="{height - 4}" stroke="#262626" stroke-width="1"/>
+  <!-- Outer Border -->
+  <rect x="0.5" y="0.5" width="{total_width - 1}" height="{height - 1}" fill="none" stroke="url(#border-grad)" stroke-width="1"/>
 
   <!-- Minimal Eye / Radar Icon -->
   <g transform="translate(9, 5)" fill="#F25623">
