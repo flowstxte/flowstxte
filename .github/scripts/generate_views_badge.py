@@ -1,6 +1,7 @@
 import os
 import re
 import sys
+import traceback
 import urllib.request
 
 KOMAREV_URL = "https://komarev.com/ghpvc/?username=flowstxte"
@@ -20,8 +21,11 @@ def fetch_count():
                 # The count is typically the last text tag in komarev's SVG
                 count = matches[-1].strip()
                 if count:
-                    with open(FALLBACK_FILE, "w", encoding="utf-8") as f:
-                        f.write(count)
+                    try:
+                        with open(FALLBACK_FILE, "w", encoding="utf-8") as f:
+                            f.write(count)
+                    except Exception:
+                        pass
                     return count
     except Exception as e:
         print(f"[Warning] Failed to fetch latest views from komarev: {e}")
@@ -86,16 +90,21 @@ def generate_svg(count_str):
 </svg>"""
 
 def main():
-    out_dir = sys.argv[1] if len(sys.argv) > 1 else "./dist"
-    os.makedirs(out_dir, exist_ok=True)
-    out_file = os.path.join(out_dir, "profile-views.svg")
+    try:
+        out_dir = sys.argv[1] if len(sys.argv) > 1 else "./dist"
+        os.makedirs(out_dir, exist_ok=True)
+        out_file = os.path.join(out_dir, "profile-views.svg")
 
-    count = fetch_count()
-    svg = generate_svg(count)
+        count = fetch_count()
+        svg = generate_svg(count)
 
-    with open(out_file, "w", encoding="utf-8") as f:
-        f.write(svg)
-    print(f"[Success] Generated profile-views.svg with count '{count}' -> {out_file}")
+        with open(out_file, "w", encoding="utf-8") as f:
+            f.write(svg)
+        print(f"[Success] Generated profile-views.svg with count '{count}' -> {out_file}")
+    except Exception as e:
+        print(f"[Error] Failed to generate SVG badge: {e}")
+        traceback.print_exc()
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()
