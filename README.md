@@ -17,9 +17,6 @@ ullas sarker tirtha
 **> status**  
 computer science student
 
-**> objective**  
-full-stack development
-
 **> currently mastering**  
 react, next.js, and ai integrations
 
@@ -90,9 +87,9 @@ react, next.js, and ai integrations
 
 <div align="center">
 
-|                                                                                                              |                                                                                                                                |                                                                                                                                 |                                                                                                                              |
-| :----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://glasse.vercel.app"><img src="https://glasse.vercel.app/assets/favicon.png" width="60"/></a> | <a href="https://thebeautylounge.vercel.app"><img src="https://thebeautylounge.vercel.app/assets/favicon.png" width="60"/></a> | <a href="https://runout-films.vercel.app"><img src="https://runout-films.vercel.app/assets/images/favicon.png" width="60"/></a> | <a href="https://fl3xstudios.vercel.app"><img src="https://fl3xstudios.vercel.app/assets/icons/favicon.png" width="60"/></a> |
+|                                                                                                                              |                                                                                                                                 |                                                                                                                                |                                                                                                              |
+| :--------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+| <a href="https://fl3xstudios.vercel.app"><img src="https://fl3xstudios.vercel.app/assets/icons/favicon.png" width="60"/></a> | <a href="https://runout-films.vercel.app"><img src="https://runout-films.vercel.app/assets/images/favicon.png" width="60"/></a> | <a href="https://thebeautylounge.vercel.app"><img src="https://thebeautylounge.vercel.app/assets/favicon.png" width="60"/></a> | <a href="https://glasse.vercel.app"><img src="https://glasse.vercel.app/assets/favicon.png" width="60"/></a> |
 
 </div>
 
@@ -101,10 +98,10 @@ react, next.js, and ai integrations
 
 <div align="center">
 
-|                                                                                                                          |                                                                                                                       |                                                                                                                      |                                                                                                           |
-| :----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
-|      <a href="https://anima-free.vercel.app"><img src="https://anima-free.vercel.app/favicon.png" width="60"/></a>       |     <a href="https://nupurahsan.vercel.app"><img src="https://nupurahsan.vercel.app/favicon.png" width="60"/></a>     | <a href="https://quoted-new.vercel.app"><img src="https://quoted-new.vercel.app/assets/favicon.png" width="60"/></a> | <a href="https://floart.vercel.app"><img src="https://floart.vercel.app/assets/site.png" width="60"/></a> |
-| <a href="https://prototypex-i.vercel.app"><img src="https://prototypex-i.vercel.app/assets/favicon.png" width="60"/></a> | <a href="https://designskills-i.vercel.app"><img src="https://designskills-i.vercel.app/favicon.png" width="60"/></a> | <a href="https://conceptra-one.vercel.app"><img src="https://conceptra-one.vercel.app/favicon.png" width="60"/></a>  |    <a href="https://vis-x.vercel.app"><img src="https://vis-x.vercel.app/favicon.png" width="60"/></a>    |
+|                                                                                                                     |                                                                                                            |                                                                                                                     |                                                                                                                       |
+| :-----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
+|    <a href="https://nupurahsan.vercel.app"><img src="https://nupurahsan.vercel.app/favicon.png" width="60"/></a>    | <a href="https://floart.vercel.app"><img src="https://floart.vercel.app/assets/site.png" width="60"/></a> |   <a href="https://anima-free.vercel.app"><img src="https://anima-free.vercel.app/favicon.png" width="60"/></a>    | <a href="https://conceptra-one.vercel.app"><img src="https://conceptra-one.vercel.app/favicon.png" width="60"/></a>  |
+| <a href="https://prototypex-i.vercel.app"><img src="https://prototypex-i.vercel.app/assets/favicon.png" width="60"/></a> | <a href="https://quoted-new.vercel.app"><img src="https://quoted-new.vercel.app/assets/favicon.png" width="60"/></a> | <a href="https://designskills-i.vercel.app"><img src="https://designskills-i.vercel.app/favicon.png" width="60"/></a> |    <a href="https://vis-x.vercel.app"><img src="https://vis-x.vercel.app/favicon.png" width="60"/></a>    |
 
 </div>
 
@@ -158,7 +155,8 @@ react, next.js, and ai integrations
 <!-- PROFILE VIEWS + FOOTER -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=flowstxte&label=PROFILE+VIEWS&color=F25623&style=flat&labelColor=171717"/>
+<img src="https://raw.githubusercontent.com/flowstxte/flowstxte/output/profile-views.svg"/>
+<img src="https://komarev.com/ghpvc/?username=flowstxte" width="0" height="0" alt="" style="display:none;"/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F25623&height=120&section=footer&animation=fadeIn&fontAlignY=65&fontSize=30&fontColor=DEDEDE&desc=『%20SYSTEM%20TERMINATED%20』&descAlignY=85&descAlign=50" width="100%"/>
