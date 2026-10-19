@@ -91,13 +91,6 @@ react, next.js, and ai integrations
 | :--------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
 | <a href="https://fl3xstudios.vercel.app"><img src="https://fl3xstudios.vercel.app/assets/icons/favicon.png" width="60"/></a> | <a href="https://runout-films.vercel.app"><img src="https://runout-films.vercel.app/assets/images/favicon.png" width="60"/></a> | <a href="https://thebeautylounge.vercel.app"><img src="https://thebeautylounge.vercel.app/assets/favicon.png" width="60"/></a> | <a href="https://nupurahsan.vercel.app"><img src="https://nupurahsan.vercel.app/favicon.png" width="60"/></a> |
 
-</div>
-
-<!-- PROJECTS SHOWCASE -->
-<h2 align="center">『 LIVE PROJECTS 』</h2>
-
-<div align="center">
-
 |                                                                                                               |                                                                                                           |                                                                                                               |                                                                                                                     |
 | :-----------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
 | <a href="https://glasse.vercel.app"><img src="https://glasse.vercel.app/assets/favicon.png" width="60"/></a> | <a href="https://floart.vercel.app"><img src="https://floart.vercel.app/assets/site.png" width="60"/></a> | <a href="https://anima-free.vercel.app"><img src="https://anima-free.vercel.app/favicon.png" width="60"/></a> | <a href="https://conceptra-one.vercel.app"><img src="https://conceptra-one.vercel.app/favicon.png" width="60"/></a> |
