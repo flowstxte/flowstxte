@@ -101,6 +101,17 @@ react, next.js, and ai integrations
 
 </div>
 
+<!-- CONCEPT PROJECTS -->
+<h2 align="center">『 CONCEPT PROJECTS 』</h2>
+
+<div align="center">
+
+|                                                                                                                  |                                                                                                                        |                                                                                                                |                                                                                                      |
+| :--------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
+| <a href="https://mono-08.vercel.app"><img src="https://mono-08.vercel.app/assets/favicon.svg" width="60"/></a> | <a href="https://atelier-0r.vercel.app"><img src="https://atelier-0r.vercel.app/assets/favicon.svg" width="60"/></a> | <a href="https://rain-shop.vercel.app"><img src="https://rain-shop.vercel.app/favicon.svg" width="60"/></a> | <a href="https://lt-47.vercel.app"><img src="https://lt-47.vercel.app/favicon.svg" width="60"/></a> |
+
+</div>
+
 <!-- OPEN SOURCE PROJECTS -->
 <h2 align="center">『 OPEN SOURCE PROJECTS 』</h2>
 
